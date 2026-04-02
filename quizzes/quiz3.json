@@ -1,0 +1,918 @@
+{
+  "title": "Revolutionary Organizations & Freedom Fighters of India",
+  "questions": [
+    {
+      "question": "Which revolutionary organization was founded in 1902 in Calcutta with the aim of armed struggle against British rule?\n1902 में ब्रिटिश शासन के खिलाफ सशस्त्र संघर्ष के उद्देश्य से कलकत्ता में किस क्रांतिकारी संगठन की स्थापना की गई थी?",
+      "options": [
+        "Jugantar / युगांतर",
+        "Anushilan Samiti / अनुशीलन समिति",
+        "Ghadar Party / गदर पार्टी",
+        "HSRA / एचएसआरए"
+      ],
+      "answer": "Anushilan Samiti / अनुशीलन समिति",
+      "solution": "Anushilan Samiti was founded in 1902 in Calcutta by Pulin Behari Das under ideological guidance of Aurobindo Ghosh. Jugantar was its offshoot founded later in 1906."
+    },
+    {
+      "question": "The Ghadar Movement was primarily started by Indian revolutionaries in which country?\nगदर आंदोलन मुख्य रूप से भारतीय क्रांतिकारियों द्वारा किस देश में शुरू किया गया था?",
+      "options": [
+        "Germany / जर्मनी",
+        "Japan / जापान",
+        "USA / संयुक्त राज्य अमेरिका",
+        "China / चीन"
+      ],
+      "answer": "USA / संयुक्त राज्य अमेरिका",
+      "solution": "Ghadar Party was founded in 1913 in San Francisco, USA by Lala Har Dayal. Its newspaper 'Ghadar' was published in Urdu, Punjabi, and Hindi."
+    },
+    {
+      "question": "Who among the following was NOT directly associated with the Kakori Conspiracy Case of 1925?\nनिम्नलिखित में से कौन 1925 के ककोरी षड्यंत्र मामले से सीधे जुड़ा नहीं था?",
+      "options": [
+        "Ram Prasad Bismil / राम प्रसाद बिस्मिल",
+        "Ashfaqulla Khan / अशफाकुल्ला खान",
+        "Chandrashekhar Azad / चंद्रशेखर आजाद",
+        "Subhas Chandra Bose / सुभाष चंद्र बोस"
+      ],
+      "answer": "Subhas Chandra Bose / सुभाष चंद्र बोस",
+      "solution": "Subhas Chandra Bose was not involved in Kakori; he was in mainstream Congress politics then. The Kakori train robbery was executed by HRA members on August 9, 1925."
+    },
+    {
+      "question": "The Alipore Bomb Case (1908) was primarily associated with which revolutionary group?\nअलीपुर बम मामला (1908) मुख्य रूप से किस क्रांतिकारी समूह से संबंधित था?",
+      "options": [
+        "Ghadar Party / गदर पार्टी",
+        "Anushilan Samiti / अनुशीलन समिति",
+        "HSRA / एचएसआरए",
+        "Indian National Army / भारतीय राष्ट्रीय सेना"
+      ],
+      "answer": "Anushilan Samiti / अनुशीलन समिति",
+      "solution": "Alipore Bomb Case involved Anushilan Samiti members including Aurobindo and Barindra Kumar Ghosh. It followed the attempted assassination of Magistrate Kingsford by Khudiram Bose and Prafulla Chaki."
+    },
+    {
+      "question": "Which slogan is credited to Bhagat Singh?\nभगत सिंह को किस नारे का श्रेय दिया जाता है?",
+      "options": [
+        "Jai Hind / जय हिंद",
+        "Inquilab Zindabad / इंकलाब जिंदाबाद",
+        "Vande Mataram / वंदे मातरम",
+        "Do or Die / करो या मरो"
+      ],
+      "answer": "Inquilab Zindabad / इंकलाब जिंदाबाद",
+      "solution": "Bhagat Singh popularized 'Inquilab Zindabad' after throwing bombs in the Central Legislative Assembly in 1929. 'Jai Hind' was popularized by Subhas Chandra Bose."
+    },
+    {
+      "question": "The Hindustan Socialist Republican Association (HSRA) was formed in which year?\nहिंदुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन (एचएसआरए) का गठन किस वर्ष हुआ था?",
+      "options": [
+        "1924 / 1924",
+        "1928 / 1928",
+        "1930 / 1930",
+        "1935 / 1935"
+      ],
+      "answer": "1928 / 1928",
+      "solution": "HSRA was formed in 1928 at Feroz Shah Kotla, Delhi, evolving from the Hindustan Republican Association (HRA) formed in 1924. The name change reflected adoption of socialist ideology."
+    },
+    {
+      "question": "Who among the following revolutionaries died in a police encounter at Alfred Park, Allahabad?\nनिम्नलिखित क्रांतिकारियों में से कौन इलाहाबाद के अल्फ्रेड पार्क में पुलिस मुठभेड़ में मारा गया था?",
+      "options": [
+        "Bhagat Singh / भगत सिंह",
+        "Chandrashekhar Azad / चंद्रशेखर आजाद",
+        "Rajguru / राजगुरु",
+        "Sukhdev / सुखदेव"
+      ],
+      "answer": "Chandrashekhar Azad / चंद्रशेखर आजाद",
+      "solution": "Chandrashekhar Azad died in a police encounter at Alfred Park (now Azad Park) on February 27, 1931. He shot himself with his last bullet, having vowed never to be captured alive."
+    },
+    {
+      "question": "The Jugantar newspaper was associated with which revolutionary organization?\nयुगांतर समाचार पत्र किस क्रांतिकारी संगठन से संबंधित था?",
+      "options": [
+        "Ghadar Party / गदर पार्टी",
+        "Anushilan Samiti / अनुशीलन समिति",
+        "HSRA / एचएसआरए",
+        "Abhinav Bharat / अभिनव भारत"
+      ],
+      "answer": "Anushilan Samiti / अनुशीलन समिति",
+      "solution": "Jugantar was the Bengali revolutionary newspaper started in 1906 as an offshoot of Anushilan Samiti. It spread revolutionary ideas in Bengal during the Swadeshi Movement."
+    },
+    {
+      "question": "Which revolutionary was known as 'Masterda'?\nकिस क्रांतिकारी को 'मास्टरदा' के नाम से जाना जाता था?",
+      "options": [
+        "Bhagat Singh / भगत सिंह",
+        "Chandrashekhar Azad / चंद्रशेखर आजाद",
+        "Surya Sen / सूर्य सेन",
+        "Ram Prasad Bismil / राम प्रसाद बिस्मिल"
+      ],
+      "answer": "Surya Sen / सूर्य सेन",
+      "solution": "Surya Sen, leader of the Chittagong Armoury Raid (1930), was called 'Masterda' as he was a school teacher. He was hanged in 1934."
+    },
+    {
+      "question": "The Berlin Committee for Indian Independence was formed during which historical period?\nभारतीय स्वतंत्रता के लिए बर्लिन समिति का गठन किस ऐतिहासिक काल के दौरान किया गया था?",
+      "options": [
+        "Revolt of 1857 / 1857 का विद्रोह",
+        "World War I / प्रथम विश्व युद्ध",
+        "Non-Cooperation Movement / असहयोग आंदोलन",
+        "World War II / द्वितीय विश्व युद्ध"
+      ],
+      "answer": "World War I / प्रथम विश्व युद्ध",
+      "solution": "Berlin Committee was formed in 1915 during WWI by Virendranath Chattopadhyaya with German support to mobilize Indian prisoners of war against British rule."
+    },
+    {
+      "question": "Which revolutionary organization was founded by Vinayak Damodar Savarkar and his brother?\nविनायक दामोदर सावरकर और उनके भाई द्वारा किस क्रांतिकारी संगठन की स्थापना की गई थी?",
+      "options": [
+        "Anushilan Samiti / अनुशीलन समिति",
+        "Abhinav Bharat / अभिनव भारत",
+        "Jugantar / युगांतर",
+        "Ghadar Party / गदर पार्टी"
+      ],
+      "answer": "Abhinav Bharat / अभिनव भारत",
+      "solution": "Abhinav Bharat Society was founded by VD Savarkar and his brother Ganesh Savarkar in 1904 in Nashik. It was involved in the Nasik Conspiracy Case (1909)."
+    },
+    {
+      "question": "The Kakori train robbery was executed on which date?\nककोरी ट्रेन डकैती किस तारीख को अंजाम दी गई थी?",
+      "options": [
+        "August 9, 1925 / 9 अगस्त, 1925",
+        "December 17, 1928 / 17 दिसंबर, 1928",
+        "April 8, 1929 / 8 अप्रैल, 1929",
+        "January 25, 1930 / 25 जनवरी, 1930"
+      ],
+      "answer": "August 9, 1925 / 9 अगस्त, 1925",
+      "solution": "Kakori conspiracy train robbery occurred on August 9, 1925 near Lucknow, targeting government treasury money on the Saharanpur-Lucknow passenger train."
+    },
+    {
+      "question": "Who among the following was a woman revolutionary associated with the Chittagong Armoury Raid?\nनिम्नलिखित में से कौन सी महिला क्रांतिकारी चटगांव शस्त्रागार छापा से जुड़ी थी?",
+      "options": [
+        "Aruna Asaf Ali / अरुणा आसफ अली",
+        "Pritilata Waddedar / प्रीतिलता वड्डेदार",
+        "Kasturba Gandhi / कस्तूरबा गांधी",
+        "Sarojini Naidu / सरोजिनी नायडू"
+      ],
+      "answer": "Pritilata Waddedar / प्रीतिलता वड्डेदार",
+      "solution": "Pritilata Waddedar participated in the Chittagong Armoury Raid (1930) under Surya Sen and died in a police encounter. She was the first woman to lead an armed attack against the British in India."
+    },
+    {
+      "question": "Which book written by Bhagat Singh in jail is considered his political testament?\nभगत सिंह द्वारा जेल में लिखी गई किस किताब को उनका राजनीतिक वसीयतनामा माना जाता है?",
+      "options": [
+        "India Wins Freedom / इंडिया विंस फ्रीडम",
+        "Why I Am An Atheist / व्हाई आई एम एन एथिस्ट",
+        "The Discovery of India / द डिस्कवरी ऑफ इंडिया",
+        "Gita Rahasya / गीता रहस्य"
+      ],
+      "answer": "Why I Am An Atheist / व्हाई आई एम एन एथिस्ट",
+      "solution": "'Why I Am An Atheist' was written by Bhagat Singh in Lahore Jail, revealing his rationalist philosophy. 'India Wins Freedom' is by Abul Kalam Azad; 'Discovery of India' by Nehru."
+    },
+    {
+      "question": "The Lahore Conspiracy Case is also known as?\nलाहौर षड्यंत्र मामले को किस नाम से भी जाना जाता है?",
+      "options": [
+        "Alipore Bomb Case / अलीपुर बम मामला",
+        "Second Lahore Conspiracy Case / दूसरा लाहौर षड्यंत्र मामला",
+        "Kakori Conspiracy Case / ककोरी षड्यंत्र मामला",
+        "Meerut Conspiracy Case / मेरठ षड्यंत्र मामला"
+      ],
+      "answer": "Second Lahore Conspiracy Case / दूसरा लाहौर षड्यंत्र मामला",
+      "solution": "The case against Bhagat Singh, Rajguru, and Sukhdev is the Second Lahore Conspiracy Case (1929-31). The First was against HRA members in 1915. It led to their hanging on March 23, 1931."
+    },
+    {
+      "question": "Who assassinated General Dyer's associate, Mr. Saunders, in Lahore in 1928?\n1928 में लाहौर में जनरल डायर के सहयोगी मिस्टर सॉन्डर्स की हत्या किसने की थी?",
+      "options": [
+        "Bhagat Singh and Sukhdev / भगत सिंह और सुखदेव",
+        "Bhagat Singh and Rajguru / भगत सिंह और राजगुरु",
+        "Chandrashekhar Azad and Rajguru / चंद्रशेखर आजाद और राजगुरु",
+        "Sukhdev and Ashfaqulla Khan / सुखदेव और अशफाकुल्ला खान"
+      ],
+      "answer": "Bhagat Singh and Rajguru / भगत सिंह और राजगुरु",
+      "solution": "Bhagat Singh and Rajguru assassinated J.P. Saunders on December 17, 1928 to avenge Lala Lajpat Rai's death. Sukhdev was not directly involved in the shooting."
+    },
+    {
+      "question": "The Ghadar Party's headquarters was located in?\nगदर पार्टी का मुख्यालय कहाँ स्थित था?",
+      "options": [
+        "London / लंदन",
+        "Berlin / बर्लिन",
+        "San Francisco / सैन फ्रांसिस्को",
+        "Tokyo / टोक्यो"
+      ],
+      "answer": "San Francisco / सैन फ्रांसिस्को",
+      "solution": "Ghadar Party headquarters was at Yugantar Ashram, San Francisco. Lala Har Dayal was its founding intellectual force in 1913. Berlin Committee was a separate organization."
+    },
+    {
+      "question": "Which revolutionary threw a bomb in the Central Legislative Assembly on April 8, 1929?\n8 अप्रैल, 1929 को केंद्रीय विधायी सभा में बम किस क्रांतिकारी ने फेंका था?",
+      "options": [
+        "Chandrashekhar Azad / चंद्रशेखर आजाद",
+        "Bhagat Singh and Batukeshwar Dutt / भगत सिंह और बटुकेश्वर दत्त",
+        "Sukhdev and Rajguru / सुखदेव और राजगुरु",
+        "Ram Prasad Bismil / राम प्रसाद बिस्मिल"
+      ],
+      "answer": "Bhagat Singh and Batukeshwar Dutt / भगत सिंह और बटुकेश्वर दत्त",
+      "solution": "Bhagat Singh and Batukeshwar Dutt threw non-lethal bombs in the Assembly to protest the Public Safety Bill. They courted arrest to use the trial as a platform for propaganda."
+    },
+    {
+      "question": "The 'Hindustan Republican Association' (HRA) was founded in which year?\n'हिंदुस्तान रिपब्लिकन एसोसिएशन' (एचआरए) की स्थापना किस वर्ष हुई थी?",
+      "options": [
+        "1920 / 1920",
+        "1924 / 1924",
+        "1928 / 1928",
+        "1931 / 1931"
+      ],
+      "answer": "1924 / 1924",
+      "solution": "HRA was founded in 1924 in Kanpur by Sachindra Nath Sanyal. The Kakori Conspiracy (1925) was executed by HRA members before it was reorganized as HSRA in 1928."
+    },
+    {
+      "question": "Which revolutionary was executed first among the trio Bhagat Singh, Rajguru, Sukhdev?\nभगत सिंह, राजगुरु, सुखदेव तीनों में से किस क्रांतिकारी को सबसे पहले फाँसी दी गई?",
+      "options": [
+        "Bhagat Singh / भगत सिंह",
+        "Rajguru / राजगुरु",
+        "Sukhdev / सुखदेव",
+        "All three were hanged simultaneously / तीनों को एक साथ फाँसी दी गई"
+      ],
+      "answer": "All three were hanged simultaneously / तीनों को एक साथ फाँसी दी गई",
+      "solution": "Bhagat Singh, Rajguru, and Sukhdev were hanged together on March 23, 1931 in Lahore Jail. Their execution was advanced by 11 hours to avoid public protests."
+    },
+    {
+      "question": "The 'Anushilan Samiti' had its major branch in Dhaka founded by?\n'अनुशीलन समिति' की ढाका में प्रमुख शाखा की स्थापना किसने की थी?",
+      "options": [
+        "Aurobindo Ghosh / अरविंद घोष",
+        "Pulin Behari Das / पुलिन बिहारी दास",
+        "Barindra Kumar Ghosh / बरींद्र कुमार घोष",
+        "Rash Behari Bose / रास बिहारी बोस"
+      ],
+      "answer": "Pulin Behari Das / पुलिन बिहारी दास",
+      "solution": "Pulin Behari Das founded both Calcutta and Dhaka branches of Anushilan Samiti. Aurobindo was the ideological guide, not the branch founder. Dhaka branch was very active in revolutionary activities."
+    },
+    {
+      "question": "Which newspaper was started by Lala Har Dayal to propagate Ghadar ideology?\nगदर विचारधारा का प्रचार करने के लिए लाला हर दयाल द्वारा किस समाचार पत्र की शुरुआत की गई थी?",
+      "options": [
+        "Bande Mataram / वंदे मातरम",
+        "Ghadar / गदर",
+        "Young India / यंग इंडिया",
+        "Kesari / केसरी"
+      ],
+      "answer": "Ghadar / गदर",
+      "solution": "'Ghadar' newspaper was published in multiple Indian languages from San Francisco. Its first issue was November 1, 1913. 'Bande Mataram' was Aurobindo's paper in India."
+    },
+    {
+      "question": "Who among the following was NOT hanged for the Kakori Conspiracy?\nनिम्नलिखित में से कौन ककोरी षड्यंत्र के लिए फाँसी पर नहीं लटकाया गया था?",
+      "options": [
+        "Ram Prasad Bismil / राम प्रसाद बिस्मिल",
+        "Ashfaqulla Khan / अशफाकुल्ला खान",
+        "Roshan Singh / रोशन सिंह",
+        "Chandrashekhar Azad / चंद्रशेखर आजाद"
+      ],
+      "answer": "Chandrashekhar Azad / चंद्रशेखर आजाद",
+      "solution": "Chandrashekhar Azad escaped and was never captured; he died in a police encounter in 1931. Four Kakori revolutionaries were hanged in December 1927."
+    },
+    {
+      "question": "The 'Chittagong Armoury Raid' was led by Surya Sen in which year?\n'चटगांव शस्त्रागार छापा' की अगुवाई सूर्य सेन ने किस वर्ष की थी?",
+      "options": [
+        "1928 / 1928",
+        "1930 / 1930",
+        "1932 / 1932",
+        "1934 / 1934"
+      ],
+      "answer": "1930 / 1930",
+      "solution": "Chittagong Armoury Raid occurred on April 18, 1930. Revolutionaries captured the police armoury and cut communication lines for 3 days."
+    },
+    {
+      "question": "Which revolutionary organization was involved in the 'Delhi-Lahore Conspiracy' of 1912?\n1912 के 'दिल्ली-लाहौर षड्यंत्र' में किस क्रांतिकारी संगठन का शामिल होना था?",
+      "options": [
+        "Anushilan Samiti / अनुशीलन समिति",
+        "Ghadar Party / गदर पार्टी",
+        "Abhinav Bharat / अभिनव भारत",
+        "HSRA / एचएसआरए"
+      ],
+      "answer": "Anushilan Samiti / अनुशीलन समिति",
+      "solution": "Anushilan Samiti members attempted to assassinate Viceroy Hardinge in Delhi in 1912. Ghadar was not yet formed in 1912. Key planners were Rash Behari Bose and Sachin Sanyal."
+    },
+    {
+      "question": "The 'Bande Mataram' newspaper was edited by?\n'वंदे मातरम' समाचार पत्र किसके द्वारा संपादित किया जाता था?",
+      "options": [
+        "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+        "Aurobindo Ghosh / अरविंद घोष",
+        "Lala Lajpat Rai / लाला लाजपत राय",
+        "Bipin Chandra Pal / बिपिन चंद्र पाल"
+      ],
+      "answer": "Aurobindo Ghosh / अरविंद घोष",
+      "solution": "Aurobindo Ghosh edited 'Bande Mataram' from Calcutta to spread revolutionary nationalism. Tilak edited 'Kesari' and 'Maratha'. The paper was banned in 1907 for sedition."
+    },
+    {
+      "question": "Who was the founder of the 'Indian Independence Committee' in Berlin during WWI?\nप्रथम विश्व युद्ध के दौरान बर्लिन में 'इंडियन इंडिपेंडेंस कमेटी' के संस्थापक कौन थे?",
+      "options": [
+        "Subhas Chandra Bose / सुभाष चंद्र बोस",
+        "Virendranath Chattopadhyaya / वीरेंद्रनाथ चट्टोपाध्याय",
+        "Rash Behari Bose / रास बिहारी बोस",
+        "Mohan Singh / मोहन सिंह"
+      ],
+      "answer": "Virendranath Chattopadhyaya / वीरेंद्रनाथ चट्टोपाध्याय",
+      "solution": "Virendranath Chattopadhyaya founded the Berlin Committee in 1915. Subhas Chandra Bose led INA during WWII. The Committee coordinated with Germany and Turkey against British India."
+    },
+    {
+      "question": "Which revolutionary wrote the book 'The Indian Struggle'?\nकिस क्रांतिकारी ने 'द इंडियन स्ट्रगल' पुस्तक लिखी?",
+      "options": [
+        "Bhagat Singh / भगत सिंह",
+        "Subhas Chandra Bose / सुभाष चंद्र बोस",
+        "Rash Behari Bose / रास बिहारी बोस",
+        "Chandrashekhar Azad / चंद्रशेखर आजाद"
+      ],
+      "answer": "Subhas Chandra Bose / सुभाष चंद्र बोस",
+      "solution": "'The Indian Struggle' was written by Subhas Chandra Bose covering 1920-1942. The book was banned by the British for its radical content."
+    },
+    {
+      "question": "The 'Meerut Conspiracy Case' (1929) was primarily against?\n'मेरठ षड्यंत्र मामला' (1929) मुख्य रूप से किसके खिलाफ था?",
+      "options": [
+        "Revolutionary terrorists / क्रांतिकारी आतंकवादियों",
+        "Communist leaders / कम्युनिस्ट नेताओं",
+        "Ghadar Party members / गदर पार्टी के सदस्यों",
+        "Anushilan Samiti / अनुशीलन समिति"
+      ],
+      "answer": "Communist leaders / कम्युनिस्ट नेताओं",
+      "solution": "Meerut Conspiracy Case targeted communist and trade union leaders for alleged conspiracy against the state. 33 leaders including M.N. Roy were arrested."
+    },
+    {
+      "question": "Who among the following was a revolutionary and also a noted poet?\nनिम्नलिखित में से कौन क्रांतिकारी और प्रसिद्ध कवि दोनों थे?",
+      "options": [
+        "Ram Prasad Bismil / राम प्रसाद बिस्मिल",
+        "Bhagat Singh / भगत सिंह",
+        "Chandrashekhar Azad / चंद्रशेखर आजाद",
+        "Sukhdev / सुखदेव"
+      ],
+      "answer": "Ram Prasad Bismil / राम प्रसाद बिस्मिल",
+      "solution": "Ram Prasad Bismil wrote patriotic poems like 'Sarfaroshi Ki Tamanna' which became an anthem for revolutionaries. Bhagat Singh wrote essays, not poetry."
+    },
+    {
+      "question": "The 'Jugantar' group was most active in which region of India?\n'युगांतर' समूह भारत के किस क्षेत्र में सबसे अधिक सक्रिय था?",
+      "options": [
+        "Punjab / पंजाब",
+        "Bengal / बंगाल",
+        "United Provinces / संयुक्त प्रांत",
+        "Maharashtra / महाराष्ट्र"
+      ],
+      "answer": "Bengal / बंगाल",
+      "solution": "Jugantar was a Bengali revolutionary group based in Calcutta. Ghadar was Punjab-focused but operated from USA. Jugantar merged with Anushilan Samiti activities during Swadeshi Movement."
+    },
+    {
+      "question": "Which revolutionary was known as 'Punjab Kesari'?\nकिस क्रांतिकारी को 'पंजाब केसरी' के नाम से जाना जाता था?",
+      "options": [
+        "Lala Lajpat Rai / लाला लाजपत राय",
+        "Bhagat Singh / भगत सिंह",
+        "Udham Singh / उधम सिंह",
+        "Kartar Singh Sarabha / कर्तार सिंह सराभा"
+      ],
+      "answer": "Lala Lajpat Rai / लाला लाजपत राय",
+      "solution": "Lala Lajpat Rai was called 'Punjab Kesari'. His death after a police lathi-charge triggered the assassination of Saunders by Bhagat Singh and Rajguru."
+    },
+    {
+      "question": "The 'Ghadar Mutiny' planned for 1915 was primarily to be launched in?\n1915 में नियोजित 'गदर विद्रोह' मुख्य रूप से कहाँ शुरू किया जाना था?",
+      "options": [
+        "Bengal / बंगाल",
+        "Punjab / पंजाब",
+        "Madras / मद्रास",
+        "Bombay / बंबई"
+      ],
+      "answer": "Punjab / पंजाब",
+      "solution": "Ghadarites planned a pan-India mutiny with Punjab as the epicenter in 1915. The plan was foiled by British intelligence, leading to mass arrests."
+    },
+    {
+      "question": "Who among the following was NOT a member of HSRA?\nनिम्नलिखित में से कौन एचएसआरए का सदस्य नहीं था?",
+      "options": [
+        "Bhagat Singh / भगत सिंह",
+        "Chandrashekhar Azad / चंद्रशेखर आजाद",
+        "Surya Sen / सूर्य सेन",
+        "Sukhdev / सुखदेव"
+      ],
+      "answer": "Surya Sen / सूर्य सेन",
+      "solution": "Surya Sen led the Chittagong group and was not formally part of HSRA, which was North India-based. HSRA was formed in Delhi; Surya Sen operated in Bengal."
+    },
+    {
+      "question": "The 'Alipore Bomb Case' trial resulted in the imprisonment of?\n'अलीपुर बम मामले' के मुकदमे ने किसकी जेल सजा सुनिश्चित की?",
+      "options": [
+        "Aurobindo Ghosh / अरविंद घोष",
+        "Barindra Kumar Ghosh / बरींद्र कुमार घोष",
+        "Khudiram Bose / खुदीराम बोस",
+        "Prafulla Chaki / प्रफुल्ल चाकी"
+      ],
+      "answer": "Barindra Kumar Ghosh / बरींद्र कुमार घोष",
+      "solution": "Barindra Kumar Ghosh was sentenced to life imprisonment; Aurobindo was acquitted. Khudiram was tried separately and hanged. Aurobindo's acquittal led to his spiritual retreat in Pondicherry."
+    },
+    {
+      "question": "Who assassinated Sir William Curzon Wyllie in London in 1909?\n1909 में लंदन में सर विलियम कर्जन वाइली की हत्या किसने की थी?",
+      "options": [
+        "Madan Lal Dhingra / मदन लाल ढींगरा",
+        "Udham Singh / उधम सिंह",
+        "Rash Behari Bose / रास बिहारी बोस",
+        "V.D. Savarkar / वी.डी. सावरकर"
+      ],
+      "answer": "Madan Lal Dhingra / मदन लाल ढींगरा",
+      "solution": "Madan Lal Dhingra assassinated Curzon Wyllie in London on July 1, 1909. Udham Singh killed Michael O'Dwyer in 1940. Dhingra's trial speech became a classic statement of revolutionary nationalism."
+    },
+    {
+      "question": "Which revolutionary was associated with the 'Bombay Conspiracy Case' of 1915?\n1915 के 'बंबई षड्यंत्र मामले' से कौन क्रांतिकारी जुड़ा था?",
+      "options": [
+        "V.D. Savarkar / वी.डी. सावरकर",
+        "Rash Behari Bose / रास बिहारी बोस",
+        "Lala Har Dayal / लाला हर दयाल",
+        "Barindra Kumar Ghosh / बरींद्र कुमार घोष"
+      ],
+      "answer": "V.D. Savarkar / वी.डी. सावरकर",
+      "solution": "V.D. Savarkar was implicated in Bombay Conspiracy Case for Abhinav Bharat activities and was sentenced to life transportation to Cellular Jail, Andamans."
+    },
+    {
+      "question": "The 'Revolutionary Party' in Bengal was also known as?\nबंगाल की 'क्रांतिकारी पार्टी' को किस नाम से भी जाना जाता था?",
+      "options": [
+        "Anushilan-Jugantar / अनुशीलन-युगांतर",
+        "Ghadar-Anushilan / गदर-अनुशीलन",
+        "HSRA-Jugantar / एचएसआरए-युगांतर",
+        "Abhinav-Anushilan / अभिनव-अनुशीलन"
+      ],
+      "answer": "Anushilan-Jugantar / अनुशीलन-युगांतर",
+      "solution": "Bengal revolutionaries operated under Anushilan and Jugantar banners, collectively called Anushilan-Jugantar. Ghadar was Punjab/overseas based. This umbrella term appears frequently in SSC PYQs."
+    },
+    {
+      "question": "The 'Ghadar Party' published its newspaper in all EXCEPT which language?\n'गदर पार्टी' ने अपने समाचार पत्र का प्रकाशन निम्नलिखित में से किस भाषा में नहीं किया?",
+      "options": [
+        "Urdu / उर्दू",
+        "Punjabi / पंजाबी",
+        "Tamil / तमिल",
+        "Hindi / हिंदी"
+      ],
+      "answer": "Tamil / तमिल",
+      "solution": "Ghadar newspaper was published in Urdu, Punjabi, and Hindi, but not Tamil. Tamil was not the major language of Ghadar's target audience, which was primarily the Punjabi diaspora."
+    },
+    {
+      "question": "Which revolutionary was executed for the 'Chittagong Armoury Raid'?\n'चटगांव शस्त्रागार छापा' के लिए किस क्रांतिकारी को फाँसी दी गई?",
+      "options": [
+        "Surya Sen / सूर्य सेन",
+        "Pritilata Waddedar / प्रीतिलता वड्डेदार",
+        "Kalpana Dutt / कल्पना दत्त",
+        "Ganesh Ghosh / गणेश घोष"
+      ],
+      "answer": "Surya Sen / सूर्य सेन",
+      "solution": "Surya Sen was hanged in 1934 for leading the Chittagong raid. Pritilata died in a police encounter; Kalpana Dutt was imprisoned and released in 1939."
+    },
+    {
+      "question": "Who among the following was a revolutionary and also a poet in Urdu?\nनिम्नलिखित में से कौन क्रांतिकारी और उर्दू कवि दोनों थे?",
+      "options": [
+        "Ram Prasad Bismil / राम प्रसाद बिस्मिल",
+        "Ashfaqulla Khan / अशफाकुल्ला खान",
+        "Bhagat Singh / भगत सिंह",
+        "Chandrashekhar Azad / चंद्रशेखर आजाद"
+      ],
+      "answer": "Ashfaqulla Khan / अशफाकुल्ला खान",
+      "solution": "Ashfaqulla Khan wrote Urdu poetry under pen name 'Hasrat'. Bismil wrote in Hindi. Ashfaqulla's poetry reflected his revolutionary zeal and spiritualism."
+    },
+    {
+      "question": "The 'Berlin Committee' collaborated with which foreign power during WWI?\nप्रथम विश्व युद्ध के दौरान 'बर्लिन समिति' ने किस विदेशी शक्ति के साथ सहयोग किया?",
+      "options": [
+        "Ottoman Turkey / उस्मानिया तुर्की",
+        "Germany / जर्मनी",
+        "Both Ottoman Turkey and Germany / उस्मानिया तुर्की और जर्मनी दोनों",
+        "Japan / जापान"
+      ],
+      "answer": "Both Ottoman Turkey and Germany / उस्मानिया तुर्की और जर्मनी दोनों",
+      "solution": "Berlin Committee worked with both Germany and Ottoman Turkey against British rule. Japan was actually an ally of Britain in WWI."
+    },
+    {
+      "question": "Who assassinated Michael O'Dwyer in London in 1940?\n1940 में लंदन में माइकल ओ'डवायर की हत्या किसने की थी?",
+      "options": [
+        "Madan Lal Dhingra / मदन लाल ढींगरा",
+        "Udham Singh / उधम सिंह",
+        "Bhagat Singh / भगत सिंह",
+        "Rash Behari Bose / रास बिहारी बोस"
+      ],
+      "answer": "Udham Singh / उधम सिंह",
+      "solution": "Udham Singh assassinated O'Dwyer (responsible for Jallianwala Bagh massacre) in Caxton Hall, London. He used the name 'Ram Mohammad Singh Azad' during his trial. He waited 21 years for this act."
+    },
+    {
+      "question": "The 'Ghadar Party' failed to launch its 1915 mutiny mainly due to?\n'गदर पार्टी' 1915 का विद्रोह शुरू करने में मुख्य रूप से किस कारण असफल रही?",
+      "options": [
+        "Lack of weapons / हथियारों की कमी",
+        "Betrayal by informers / सूचना देने वालों द्वारा विश्वासघात",
+        "British naval blockade / ब्रिटिश नौसैनिक नाकाबंदी",
+        "Internal disagreements / आंतरिक मतभेद"
+      ],
+      "answer": "Betrayal by informers / सूचना देने वालों द्वारा विश्वासघात",
+      "solution": "British intelligence infiltrated Ghadar; key leaders were arrested before the mutiny could begin. Kirpal Singh and others turned informers, leading to Lahore Conspiracy Case trials."
+    },
+    {
+      "question": "The 'Kakori Conspiracy' involved looting government money from a train near?\n'ककोरी षड्यंत्र' में एक ट्रेन से सरकारी धन लूटना कहाँ के पास शामिल था?",
+      "options": [
+        "Kanpur / कानपुर",
+        "Lucknow / लखनऊ",
+        "Delhi / दिल्ली",
+        "Agra / आगरा"
+      ],
+      "answer": "Lucknow / लखनऊ",
+      "solution": "Kakori is near Lucknow; the train was stopped at Kakori station. Kanpur was HRA's base but the robbery took place near Lucknow. About ₹6,000 in government funds were looted."
+    },
+    {
+      "question": "Who among the following wrote the autobiography 'Mere Jeevan Sangharsh'?\nनिम्नलिखित में से किसने 'मेरे जीवन संघर्ष' आत्मकथा लिखी?",
+      "options": [
+        "Ram Prasad Bismil / राम प्रसाद बिस्मिल",
+        "Bhagat Singh / भगत सिंह",
+        "Chandrashekhar Azad / चंद्रशेखर आजाद",
+        "Ashfaqulla Khan / अशफाकुल्ला खान"
+      ],
+      "answer": "Ram Prasad Bismil / राम प्रसाद बिस्मिल",
+      "solution": "Ram Prasad Bismil wrote 'Mere Jeevan Sangharsh' (My Life Struggle). Azad did not write an autobiography; his life is documented by others."
+    },
+    {
+      "question": "The 'Chittagong Armoury Raid' was planned to coincide with?\n'चटगांव शस्त्रागार छापा' की योजना किसके साथ समन्वय में बनाई गई थी?",
+      "options": [
+        "Non-Cooperation Movement / असहयोग आंदोलन",
+        "Civil Disobedience Movement / सविनय अवज्ञा आंदोलन",
+        "Quit India Movement / भारत छोड़ो आंदोलन",
+        "Swadeshi Movement / स्वदेशी आंदोलन"
+      ],
+      "answer": "Civil Disobedience Movement / सविनय अवज्ञा आंदोलन",
+      "solution": "Chittagong raid (April 1930) was timed with the launch of the Civil Disobedience Movement. Surya Sen aimed to create a parallel government in Chittagong."
+    },
+    {
+      "question": "Which revolutionary was a founding member of the 'Indian Independence League' in Tokyo?\nटोक्यो में 'इंडियन इंडिपेंडेंस लीग' के संस्थापक सदस्य कौन क्रांतिकारी थे?",
+      "options": [
+        "Subhas Chandra Bose / सुभाष चंद्र बोस",
+        "Rash Behari Bose / रास बिहारी बोस",
+        "Mohan Singh / मोहन सिंह",
+        "All of the above / उपरोक्त सभी"
+      ],
+      "answer": "All of the above / उपरोक्त सभी",
+      "solution": "All three were key founders of the Indian Independence League in Tokyo during WWII. Rash Behari Bose was president before handing over to Subhas Chandra Bose in 1943."
+    },
+    {
+      "question": "The 'Alipore Bomb Case' involved the attempted assassination of which British magistrate?\n'अलीपुर बम मामले' में किस ब्रिटिश मजिस्ट्रेट की हत्या का प्रयास शामिल था?",
+      "options": [
+        "Douglas Kingsford / डगलस किंग्सफोर्ड",
+        "William Curzon Wyllie / विलियम कर्जन वाइली",
+        "Michael O'Dwyer / माइकल ओ'डवायर",
+        "Reginald Dyer / रेजिनाल्ड डायर"
+      ],
+      "answer": "Douglas Kingsford / डगलस किंग्सफोर्ड",
+      "solution": "Khudiram Bose and Prafulla Chaki attempted to kill Kingsford in Muzaffarpur (1908). Kingsford was posted in Muzaffarpur; the case is named after its trial location, Alipore."
+    },
+    {
+      "question": "The 'Ghadar Party' was banned by the US government in which year?\n'गदर पार्टी' को अमेरिकी सरकार ने किस वर्ष प्रतिबंधित कर दिया था?",
+      "options": [
+        "1914 / 1914",
+        "1917 / 1917",
+        "1920 / 1920",
+        "1925 / 1925"
+      ],
+      "answer": "1917 / 1917",
+      "solution": "Ghadar Party was banned in USA under the Espionage Act in 1917 after the US entered WWI. The ban forced Ghadar activities underground and shifted focus to Asia."
+    },
+    {
+      "question": "Which revolutionary was known as 'Punjab's Bhagat Singh'?\nकिस क्रांतिकारी को 'पंजाब का भगत सिंह' कहा जाता था?",
+      "options": [
+        "Kartar Singh Sarabha / कर्तार सिंह सराभा",
+        "Udham Singh / उधम सिंह",
+        "Lala Lajpat Rai / लाला लाजपत राय",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": "Kartar Singh Sarabha / कर्तार सिंह सराभा",
+      "solution": "Kartar Singh Sarabha, hanged at 19 for Ghadar activities, is called 'Punjab's Bhagat Singh'. He was a founding member of the Ghadar Party at age 17."
+    },
+    {
+      "question": "Who among the following was a woman revolutionary who threw a bomb at Governor Stanley Jackson in 1932?\nनिम्नलिखित में से कौन सी महिला क्रांतिकारी थी जिसने 1932 में गवर्नर स्टैनली जैक्सन पर बम फेंका था?",
+      "options": [
+        "Pritilata Waddedar / प्रीतिलता वड्डेदार",
+        "Kalpana Dutt / कल्पना दत्त",
+        "Bina Das / बीना दास",
+        "Aruna Asaf Ali / अरुणा आसफ अली"
+      ],
+      "answer": "Bina Das / बीना दास",
+      "solution": "Bina Das attempted to assassinate Bengal Governor Stanley Jackson at Calcutta University convocation in 1932. She was sentenced to 9 years rigorous imprisonment."
+    },
+    {
+      "question": "Which revolutionary was known as 'Sher-e-Punjab'?\nकिस क्रांतिकारी को 'शेर-ए-पंजाब' के नाम से जाना जाता था?",
+      "options": [
+        "Lala Lajpat Rai / लाला लाजपत राय",
+        "Bhagat Singh / भगत सिंह",
+        "Udham Singh / उधम सिंह",
+        "Kartar Singh Sarabha / कर्तार सिंह सराभा"
+      ],
+      "answer": "Lala Lajpat Rai / लाला लाजपत राय",
+      "solution": "Lala Lajpat Rai was 'Sher-e-Punjab'. Both 'Sher-e-Punjab' and 'Punjab Kesari' titles refer to him. His death on November 17, 1928 galvanized the revolutionary youth."
+    },
+    {
+      "question": "The 'Delhi Conspiracy Case' of 1912 is also known as?\n1912 के 'दिल्ली षड्यंत्र मामले' को किस नाम से भी जाना जाता है?",
+      "options": [
+        "Hardinge Bomb Case / हार्डिंज बम मामला",
+        "Lahore Conspiracy Case / लाहौर षड्यंत्र मामला",
+        "Alipore Bomb Case / अलीपुर बम मामला",
+        "Kakori Conspiracy Case / ककोरी षड्यंत्र मामला"
+      ],
+      "answer": "Hardinge Bomb Case / हार्डिंज बम मामला",
+      "solution": "The Delhi Conspiracy Case involved the bombing of Viceroy Hardinge in 1912, hence called the Hardinge Bomb Case. It was orchestrated by Rash Behari Bose and Sachin Sanyal."
+    },
+    {
+      "question": "Who among the following was NOT executed for revolutionary activities?\nनिम्नलिखित में से कौन क्रांतिकारी गतिविधियों के लिए फाँसी पर नहीं लटकाया गया था?",
+      "options": [
+        "Khudiram Bose / खुदीराम बोस",
+        "Prafulla Chaki / प्रफुल्ल चाकी",
+        "Chandrashekhar Azad / चंद्रशेखर आजाद",
+        "Ram Prasad Bismil / राम प्रसाद बिस्मिल"
+      ],
+      "answer": "Chandrashekhar Azad / चंद्रशेखर आजाद",
+      "solution": "Chandrashekhar Azad died in a police encounter, not by execution. Khudiram was hanged at age 18; Prafulla died by suicide to avoid capture; Bismil was hanged for Kakori."
+    },
+    {
+      "question": "The 'Revolutionary Movement' in India received maximum foreign support from which country during WWI?\nप्रथम विश्व युद्ध के दौरान भारत के 'क्रांतिकारी आंदोलन' को अधिकतम विदेशी समर्थन किस देश से मिला?",
+      "options": [
+        "USA / संयुक्त राज्य अमेरिका",
+        "Germany / जर्मनी",
+        "Japan / जापान",
+        "Russia / रूस"
+      ],
+      "answer": "Germany / जर्मनी",
+      "solution": "Germany supported the Berlin Committee and Ghadar activities during WWI to weaken British India. German funds and arms were channeled through Southeast Asia to Indian revolutionaries."
+    },
+    {
+      "question": "The 'Ghadar Movement' derived its name from?\n'गदर आंदोलन' ने अपना नाम कहाँ से लिया?",
+      "options": [
+        "A Urdu word meaning 'rebellion' / 'विद्रोह' का उर्दू शब्द",
+        "A Punjabi folk song / एक पंजाबी लोक गीत",
+        "A Bengali revolutionary slogan / एक बंगाली क्रांतिकारी नारा",
+        "A Persian term for freedom / स्वतंत्रता का फारसी शब्द"
+      ],
+      "answer": "A Urdu word meaning 'rebellion' / 'विद्रोह' का उर्दू शब्द",
+      "solution": "'Ghadar' means 'revolt' or 'mutiny' in Urdu, reflecting the party's call for immediate armed uprising against the British."
+    },
+    {
+      "question": "Who among the following was the youngest revolutionary hanged by the British?\nनिम्नलिखित में से कौन ब्रिटिश द्वारा फाँसी पर लटकाया गया सबसे युवा क्रांतिकारी था?",
+      "options": [
+        "Bhagat Singh / भगत सिंह",
+        "Khudiram Bose / खुदीराम बोस",
+        "Rajguru / राजगुरु",
+        "Pritilata Waddedar / प्रीतिलता वड्डेदार"
+      ],
+      "answer": "Khudiram Bose / खुदीराम बोस",
+      "solution": "Khudiram Bose was hanged at age 18 in 1908 for the Muzaffarpur bombing attempt. Bhagat Singh was 23 and Rajguru was 22 at the time of their executions."
+    },
+    {
+      "question": "The 'Central Legislative Assembly bombing' by Bhagat Singh was intended to?\nभगत सिंह द्वारा 'केंद्रीय विधायी सभा में बम फेंकने' का उद्देश्य क्या था?",
+      "options": [
+        "Kill British officials / ब्रिटिश अधिकारियों को मारना",
+        "Protest against Public Safety Bill / पब्लिक सेफ्टी बिल के खिलाफ विरोध",
+        "Assassinate Viceroy / वायसराय की हत्या करना",
+        "Destroy government property / सरकारी संपत्ति नष्ट करना"
+      ],
+      "answer": "Protest against Public Safety Bill / पब्लिक सेफ्टी बिल के खिलाफ विरोध",
+      "solution": "Bhagat Singh threw bombs to protest repressive Public Safety and Trade Disputes Bills. Bombs were low-intensity and leaflets were scattered with 'It takes a loud noise to make the deaf hear'."
+    },
+    {
+      "question": "Which revolutionary was known as 'Baba-e-Hind'?\nकिस क्रांतिकारी को 'बाबा-ए-हिंद' के नाम से जाना जाता था?",
+      "options": [
+        "Lala Har Dayal / लाला हर दयाल",
+        "Rash Behari Bose / रास बिहारी बोस",
+        "Subhas Chandra Bose / सुभाष चंद्र बोस",
+        "Bhagat Singh / भगत सिंह"
+      ],
+      "answer": "Rash Behari Bose / रास बिहारी बोस",
+      "solution": "Rash Behari Bose was called 'Baba-e-Hind' for his roles in the Ghadar movement and INA preparations. He escaped to Japan in 1915 and continued revolutionary work there."
+    },
+    {
+      "question": "Which revolutionary wrote 'Bandi Jeevan' (Life in Captivity)?\n'बंदी जीवन' (कैद में जीवन) किस क्रांतिकारी ने लिखा?",
+      "options": [
+        "Bhagat Singh / भगत सिंह",
+        "Sachindra Nath Sanyal / सचिंद्र नाथ सन्याल",
+        "Ram Prasad Bismil / राम प्रसाद बिस्मिल",
+        "Yogesh Chatterjee / योगेश चटर्जी"
+      ],
+      "answer": "Sachindra Nath Sanyal / सचिंद्र नाथ सन्याल",
+      "solution": "Sachindra Nath Sanyal wrote 'Bandi Jeevan' detailing revolutionary experiences in jail. Sanyal was a founder of HRA and mentor to many revolutionaries."
+    },
+    {
+      "question": "The 'Kakori Conspiracy Case' was tried in which city?\n'ककोरी षड्यंत्र मामले' की सुनवाई किस शहर में हुई थी?",
+      "options": [
+        "Lucknow / लखनऊ",
+        "Delhi / दिल्ली",
+        "Lahore / लाहौर",
+        "Calcutta / कलकत्ता"
+      ],
+      "answer": "Lucknow / लखनऊ",
+      "solution": "The Kakori case trial was held in Lucknow sessions court. The trial lasted two years (1925-1927) and became a platform for revolutionary propaganda."
+    },
+    {
+      "question": "The 'Hindustan Republican Association' manifesto was titled?\n'हिंदुस्तान रिपब्लिकन एसोसिएशन' के घोषणापत्र का शीर्षक क्या था?",
+      "options": [
+        "The Indian Republic / द इंडियन रिपब्लिक",
+        "Revolutionary Manifesto / क्रांतिकारी घोषणापत्र",
+        "Freedom Charter / फ्रीडम चार्टर",
+        "Socialist Program / सोशलिस्ट प्रोग्राम"
+      ],
+      "answer": "The Indian Republic / द इंडियन रिपब्लिक",
+      "solution": "HRA's manifesto was 'The Indian Republic' outlining goals of armed revolution. HSRA later adopted a Socialist Manifesto. The HRA manifesto was distributed during Kakori conspiracy preparations."
+    },
+    {
+      "question": "The 'Meerut Conspiracy Case' (1929) targeted primarily?\n'मेरठ षड्यंत्र मामला' (1929) ने मुख्य रूप से किसको लक्षित किया?",
+      "options": [
+        "Revolutionary terrorists / क्रांतिकारी आतंकवादियों",
+        "Communist and trade union leaders / कम्युनिस्ट और ट्रेड यूनियन नेताओं",
+        "Ghadar Party members / गदर पार्टी के सदस्यों",
+        "Anushilan Samiti / अनुशीलन समिति"
+      ],
+      "answer": "Communist and trade union leaders / कम्युनिस्ट और ट्रेड यूनियन नेताओं",
+      "solution": "Meerut Case targeted communists like M.N. Roy and S.A. Dange for alleged conspiracy. It lasted four years and became a platform for communist propaganda."
+    },
+    {
+      "question": "Who among the following was a revolutionary and also a philosopher?\nनिम्नलिखित में से कौन क्रांतिकारी और दार्शनिक दोनों थे?",
+      "options": [
+        "Bhagat Singh / भगत सिंह",
+        "Aurobindo Ghosh / अरविंद घोष",
+        "Chandrashekhar Azad / चंद्रशेखर आजाद",
+        "Ram Prasad Bismil / राम प्रसाद बिस्मिल"
+      ],
+      "answer": "Aurobindo Ghosh / अरविंद घोष",
+      "solution": "Aurobindo Ghosh was a philosopher, yogi, and revolutionary ideologue. His philosophy of integral yoga influenced later spiritual nationalism. Bhagat Singh was a rationalist thinker but not a systematic philosopher."
+    },
+    {
+      "question": "The 'Ghadar Movement' received financial support from?\n'गदर आंदोलन' को वित्तीय समर्थन कहाँ से मिला?",
+      "options": [
+        "Indian merchants in USA / अमेरिका में भारतीय व्यापारी",
+        "German government / जर्मन सरकार",
+        "Both Indian merchants and German government / भारतीय व्यापारी और जर्मन सरकार दोनों",
+        "British sympathizers / ब्रिटिश सहानुभूति रखने वाले"
+      ],
+      "answer": "Both Indian merchants and German government / भारतीय व्यापारी और जर्मन सरकार दोनों",
+      "solution": "Ghadar was funded by diaspora donations and German intelligence during WWI. German funds were channeled through intermediaries in Southeast Asia."
+    },
+    {
+      "question": "Which revolutionary was executed for the 'Lahore Conspiracy Case' of 1915?\n1915 के 'लाहौर षड्यंत्र मामले' के लिए किस क्रांतिकारी को फाँसी दी गई?",
+      "options": [
+        "Kartar Singh Sarabha / कर्तार सिंह सराभा",
+        "Bhagat Singh / भगत सिंह",
+        "Rash Behari Bose / रास बिहारी बोस",
+        "Lala Har Dayal / लाला हर दयाल"
+      ],
+      "answer": "Kartar Singh Sarabha / कर्तार सिंह सराभा",
+      "solution": "Kartar Singh Sarabha was hanged in 1915 for Ghadar-related conspiracy in the First Lahore Case. He was only 19 when hanged; his courage inspired later revolutionaries including Bhagat Singh."
+    },
+    {
+      "question": "The 'Revolutionary Movement' in India declined after the 1930s mainly due to?\n1930 के बाद भारत में 'क्रांतिकारी आंदोलन' मुख्य रूप से किस कारण कमजोर पड़ा?",
+      "options": [
+        "Repression by British / ब्रिटिश द्वारा दमन",
+        "Rise of mass movements under Congress / कांग्रेस के तहत जन आंदोलनों का उदय",
+        "Internal ideological conflicts / आंतरिक विचारधारात्मक संघर्ष",
+        "All of the above / उपरोक्त सभी"
+      ],
+      "answer": "All of the above / उपरोक्त सभी",
+      "solution": "Multiple factors caused the decline: British repression, rise of Gandhian mass movements, and ideological splits. By mid-1930s, revolutionary terrorism gave way to mass nationalist struggle."
+    },
+    {
+      "question": "Which of the following is NOT a correct match?\nनिम्नलिखित में से कौन सा मिलान सही नहीं है?",
+      "options": [
+        "Anushilan Samiti : Bengal / अनुशीलन समिति : बंगाल",
+        "Ghadar Party : Punjab / गदर पार्टी : पंजाब",
+        "Abhinav Bharat : Maharashtra / अभिनव भारत : महाराष्ट्र",
+        "HSRA : Madras / एचएसआरए : मद्रास"
+      ],
+      "answer": "HSRA : Madras / एचएसआरए : मद्रास",
+      "solution": "HSRA was North India-based (Delhi, Punjab, UP), not Madras. All other matches are correct. HSRA's activities were concentrated in the United Provinces and Punjab."
+    },
+    {
+      "question": "Which revolutionary organization published the journal 'Bande Mataram'?\nकिस क्रांतिकारी संगठन ने 'वंदे मातरम' पत्रिका प्रकाशित की?",
+      "options": [
+        "Anushilan Samiti / अनुशीलन समिति",
+        "Ghadar Party / गदर पार्टी",
+        "Abhinav Bharat / अभिनव भारत",
+        "HSRA / एचएसआरए"
+      ],
+      "answer": "Anushilan Samiti / अनुशीलन समिति",
+      "solution": "'Bande Mataram' journal was published by Anushilan group in Calcutta. It was edited by Bhupendranath Datta, brother of Vivekananda. Ghadar published 'Ghadar' newspaper from San Francisco."
+    },
+    {
+      "question": "Which revolutionary organization had 'Liberty, Equality, Fraternity' as its motto?\nकिस क्रांतिकारी संगठन का आदर्श वाक्य 'स्वतंत्रता, समानता, बंधुत्व' था?",
+      "options": [
+        "Anushilan Samiti / अनुशीलन समिति",
+        "Ghadar Party / गदर पार्टी",
+        "HSRA / एचएसआरए",
+        "Abhinav Bharat / अभिनव भारत"
+      ],
+      "answer": "HSRA / एचएसआरए",
+      "solution": "HSRA adopted the motto 'Liberty, Equality, Fraternity' inspired by the French Revolution, reflecting the ideological shift from nationalism to socialism in 1928."
+    },
+    {
+      "question": "The 'Kakori Conspiracy' was planned at a meeting held in?\n'ककोरी षड्यंत्र' की योजना किस स्थान पर आयोजित बैठक में बनाई गई थी?",
+      "options": [
+        "Kanpur / कानपुर",
+        "Lucknow / लखनऊ",
+        "Shahjahanpur / शाहजहांपुर",
+        "Delhi / दिल्ली"
+      ],
+      "answer": "Shahjahanpur / शाहजहांपुर",
+      "solution": "The Kakori conspiracy was planned at a secret meeting in Shahjahanpur in June 1925, attended by Bismil, Ashfaqulla, Rajendra Lahiri, and others."
+    },
+    {
+      "question": "Who among the following was a woman revolutionary who participated in the Chittagong Armoury Raid?\nनिम्नलिखित में से कौन सी महिला क्रांतिकारी चटगांव शस्त्रागार छापा में शामिल हुई थी?",
+      "options": [
+        "Pritilata Waddedar / प्रीतिलता वड्डेदार",
+        "Kalpana Dutt / कल्पना दत्त",
+        "Bina Das / बीना दास",
+        "Both Pritilata Waddedar and Kalpana Dutt / प्रीतिलता वड्डेदार और कल्पना दत्त दोनों"
+      ],
+      "answer": "Both Pritilata Waddedar and Kalpana Dutt / प्रीतिलता वड्डेदार और कल्पना दत्त दोनों",
+      "solution": "Both Pritilata and Kalpana participated in the Chittagong raid under Surya Sen. Bina Das acted separately in Calcutta. Kalpana Dutt was sentenced to life imprisonment but released in 1939."
+    },
+    {
+      "question": "Which revolutionary was known for the slogan 'Sarfaroshi Ki Tamanna'?\n'सरफरोशी की तमन्ना' नारे के लिए कौन क्रांतिकारी प्रसिद्ध था?",
+      "options": [
+        "Bhagat Singh / भगत सिंह",
+        "Ram Prasad Bismil / राम प्रसाद बिस्मिल",
+        "Chandrashekhar Azad / चंद्रशेखर आजाद",
+        "Ashfaqulla Khan / अशफाकुल्ला खान"
+      ],
+      "answer": "Ram Prasad Bismil / राम प्रसाद बिस्मिल",
+      "solution": "'Sarfaroshi Ki Tamanna' was written by Bismil and became the revolutionary anthem. It is often incorrectly attributed to Bhagat Singh. The poem was first recited by Bismil in 1921."
+    },
+    {
+      "question": "The 'Ghadar Movement' was most influential among which community abroad?\n'गदर आंदोलन' विदेशों में किस समुदाय के बीच सबसे अधिक प्रभावशाली था?",
+      "options": [
+        "Bengali intellectuals / बंगाली बुद्धिजीवी",
+        "Punjabi farmers and ex-soldiers / पंजाबी किसान और पूर्व सैनिक",
+        "Tamil merchants / तमिल व्यापारी",
+        "Gujarati traders / गुजराती व्यापारी"
+      ],
+      "answer": "Punjabi farmers and ex-soldiers / पंजाबी किसान और पूर्व सैनिक",
+      "solution": "Ghadar's core support came from the Punjabi diaspora in USA and Canada. Ghadar recruited heavily from Sikh communities in North America. Bengal revolutionaries had separate networks."
+    },
+    {
+      "question": "Which revolutionary organization was responsible for the 'Bombing of the Viceroy's procession' in 1912?\n1912 में 'वायसराय के जुलूस पर बमबारी' के लिए कौन सा क्रांतिकारी संगठन जिम्मेदार था?",
+      "options": [
+        "Anushilan Samiti / अनुशीलन समिति",
+        "Ghadar Party / गदर पार्टी",
+        "HSRA / एचएसआरए",
+        "Abhinav Bharat / अभिनव भारत"
+      ],
+      "answer": "Anushilan Samiti / अनुशीलन समिति",
+      "solution": "Anushilan Samiti members carried out the Hardinge bombing in Delhi in 1912. Ghadar was not yet active in India then. The bomb was thrown from a rooftop; Hardinge was injured but survived."
+    },
+    {
+      "question": "Who among the following was NOT associated with the 'Hindustan Republican Association'?\nनिम्नलिखित में से कौन 'हिंदुस्तान रिपब्लिकन एसोसिएशन' से जुड़ा नहीं था?",
+      "options": [
+        "Sachindra Nath Sanyal / सचिंद्र नाथ सन्याल",
+        "Jogesh Chandra Chatterjee / जोगेश चंद्र चटर्जी",
+        "Bhagat Singh / भगत सिंह",
+        "Rash Behari Bose / रास बिहारी बोस"
+      ],
+      "answer": "Rash Behari Bose / रास बिहारी बोस",
+      "solution": "Rash Behari Bose was associated with Ghadar and the Berlin Committee, not HRA. HRA was North India-based; Rash Behari operated internationally, escaping to Japan in 1915."
+    },
+    {
+      "question": "Which revolutionary wrote 'Philosophy of the Bomb'?\nकिस क्रांतिकारी ने 'फिलॉसफी ऑफ द बम' लिखा?",
+      "options": [
+        "Bhagat Singh / भगत सिंह",
+        "Batukeshwar Dutt / बटुकेश्वर दत्त",
+        "Jatindra Nath Das / जतिंद्र नाथ दास",
+        "None of the above / उपरोक्त में से कोई नहीं"
+      ],
+      "answer": "Bhagat Singh / भगत सिंह",
+      "solution": "Bhagat Singh wrote 'Philosophy of the Bomb' as a response to Gandhi's criticism of violence. The essay justified revolutionary violence as necessary for India's freedom."
+    },
+    {
+      "question": "The 'Jugantar' was formed in which year as a radical offshoot of Anushilan Samiti?\n'युगांतर' किस वर्ष अनुशीलन समिति के कट्टरपंथी उपसमूह के रूप में गठित हुआ?",
+      "options": [
+        "1902 / 1902",
+        "1904 / 1904",
+        "1906 / 1906",
+        "1910 / 1910"
+      ],
+      "answer": "1906 / 1906",
+      "solution": "Jugantar was formed in 1906 as a radical offshoot of Anushilan Samiti (founded 1902). Jugantar means 'New Era' and focused on armed propaganda."
+    },
+    {
+      "question": "Which revolutionary was a founding member of both Anushilan Samiti and Jugantar?\nकौन सा क्रांतिकारी अनुशीलन समिति और युगांतर दोनों का संस्थापक सदस्य था?",
+      "options": [
+        "Aurobindo Ghosh / अरविंद घोष",
+        "Barindra Kumar Ghosh / बरींद्र कुमार घोष",
+        "Pulin Behari Das / पुलिन बिहारी दास",
+        "Rash Behari Bose / रास बिहारी बोस"
+      ],
+      "answer": "Barindra Kumar Ghosh / बरींद्र कुमार घोष",
+      "solution": "Barindra Kumar Ghosh was a key figure in both Anushilan and Jugantar. Aurobindo was the ideological guide, not operational founder. Barindra was convicted in the Alipore Bomb Case."
+    },
+    {
+      "question": "The 'Chittagong Armoury Raid' aimed to capture weapons from?\n'चटगांव शस्त्रागार छापा' का उद्देश्य कहाँ से हथियार छीनना था?",
+      "options": [
+        "Police armoury and Auxiliary Force armoury / पुलिस शस्त्रागार और सहायक बल शस्त्रागार",
+        "British military cantonment / ब्रिटिश सैनिक छावनी",
+        "Railway station armoury / रेलवे स्टेशन शस्त्रागार",
+        "Governor's residence / गवर्नर का निवास"
+      ],
+      "answer": "Police armoury and Auxiliary Force armoury / पुलिस शस्त्रागार और सहायक बल शस्त्रागार",
+      "solution": "Revolutionaries targeted two armouries in Chittagong: the police and the Auxiliary Force. They succeeded in capturing the police armoury but failed to get ammunition from the Auxiliary Force."
+    },
+    {
+      "question": "The 'Alipore Bomb Case' is also known as?\n'अलीपुर बम मामले' को किस नाम से भी जाना जाता है?",
+      "options": [
+        "Muzaffarpur Conspiracy Case / मुजफ्फरपुर षड्यंत्र मामला",
+        "Kingsford Case / किंग्सफोर्ड मामला",
+        "Manicktala Bomb Case / मानिकतला बम मामला",
+        "Delhi Conspiracy Case / दिल्ली षड्यंत्र मामला"
+      ],
+      "answer": "Manicktala Bomb Case / मानिकतला बम मामला",
+      "solution": "Alipore Bomb Case is also called the Manicktala Bomb Case as bombs were made at a Manicktala garden house, which was raided by police in May 1908."
+    },
+    {
+      "question": "The 'Ghadar Party' was initially named?\n'गदर पार्टी' का प्रारंभिक नाम क्या था?",
+      "options": [
+        "Pacific Coast Hindustan Association / पैसिफिक कोस्ट हिंदुस्तान एसोसिएशन",
+        "Indian Independence League / इंडियन इंडिपेंडेंस लीग",
+        "Berlin Committee / बर्लिन कमेटी",
+        "Indian Revolutionary Party / इंडियन रिवोल्यूशनरी पार्टी"
+      ],
+      "answer": "Pacific Coast Hindustan Association / पैसिफिक कोस्ट हिंदुस्तान एसोसिएशन",
+      "solution": "Ghadar Party was originally called Pacific Coast Hindustan Association in 1913. It was renamed Ghadar Party after its newspaper. Indian Independence League was formed later during WWII."
+    }
+  ]
+}
