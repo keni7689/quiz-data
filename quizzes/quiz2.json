@@ -1,11 +1,280 @@
 {
-    "question": "Which revolutionary organization was founded in 1902 in Calcutta?\n1902 में किस क्रांतिकारी संगठन की स्थापना की गई थी?",
-    "options": [
-        "Jugantar / युगांतर",
-        "Anushilan Samiti / अनुशीलन समिति",
-        "Ghadar Party / गदर पार्टी",
-        "HSRA / एचएसआरए"
-    ],
-    "answer": "Anushilan Samiti / अनुशीलन समिति",
-    "solution": "Anushilan Samiti was founded in 1902 in Calcutta."
+  "title": "SSC CGL 2025 Social Reform Movements — Quiz Set 2",
+  "questions": [
+    {
+      "question": "The Sati Pratha was abolished in which year under Lord William Bentinck?\nलॉर्ड विलियम बेंटिंक के अधीन सती प्रथा को किस वर्ष समाप्त किया गया?",
+      "options": [
+        "1814 / 1814",
+        "1829 / 1829",
+        "1833 / 1833",
+        "1856 / 1856"
+      ],
+      "answer": "1829 / 1829",
+      "solution": "Sati was abolished in 1829 by the Bengal Sati Regulation Act under Lord William Bentinck, largely due to Raja Ram Mohan Roy's efforts. 1856 is for the Widow Remarriage Act — a trap year."
+    },
+    {
+      "question": "DAV College was established in which city in 1886?\nDAV कॉलेज की स्थापना 1886 में किस शहर में हुई थी?",
+      "options": [
+        "Haridwar / हरिद्वार",
+        "Mathura / मथुरा",
+        "Bombay / बॉम्बे",
+        "Lahore / लाहौर"
+      ],
+      "answer": "Lahore / लाहौर",
+      "solution": "DAV College was established in Lahore in 1886 by the Arya Samaj. Gurukul Kangri was established in Haridwar in 1900 — these two are often swapped in SSC CGL."
+    },
+    {
+      "question": "What was the name of the blind teacher (guru) of Dayananda Saraswati?\nदयानंद सरस्वती के गुरु (जो अंधे थे) का नाम क्या था?",
+      "options": [
+        "Swami Virjanand / स्वामी विरजानंद",
+        "Swami Ramakrishna / स्वामी रामकृष्ण",
+        "Ramachandra Paramhans / रामचंद्र परमहंस",
+        "Totapuri / तोतापुरी"
+      ],
+      "answer": "Swami Virjanand / स्वामी विरजानंद",
+      "solution": "Swami Virjanand of Mathura was the blind guru of Dayananda Saraswati. This is a direct SSC CGL question — the fact that he was blind in Mathura is the key detail."
+    },
+    {
+      "question": "National Youth Day in India is celebrated on which date?\nभारत में राष्ट्रीय युवा दिवस किस तारीख को मनाया जाता है?",
+      "options": [
+        "11 January / 11 जनवरी",
+        "12 January / 12 जनवरी",
+        "14 January / 14 जनवरी",
+        "15 January / 15 जनवरी"
+      ],
+      "answer": "12 January / 12 जनवरी",
+      "solution": "12 January is Swami Vivekananda's birthday, celebrated as National Youth Day. SSC often gives options of 11 and 14 January to confuse."
+    },
+    {
+      "question": "Tattvabodhi Sabha was founded by whom in 1839?\nतत्त्वबोधी सभा की स्थापना 1839 में किसने की?",
+      "options": [
+        "Raja Ram Mohan Roy / राजा राम मोहन राय",
+        "Keshab Chandra Sen / केशब चन्द्र सेन",
+        "Devendranath Tagore / देवेन्द्रनाथ टैगोर",
+        "Ananda Mohan Bose / आनंद मोहन बोस"
+      ],
+      "answer": "Devendranath Tagore / देवेन्द्रनाथ टैगोर",
+      "solution": "Devendranath Tagore founded the Tattvabodhi Sabha in 1839 and the Tattvabodhini Patrika in 1843. He was the father of Rabindranath Tagore — an important connecting fact."
+    },
+    {
+      "question": "The Sadharan Brahmo Samaj (1878) was founded by whom?\nसाधारण ब्रह्म समाज (1878) की स्थापना किसने की?",
+      "options": [
+        "Keshab Chandra Sen / केशब चन्द्र सेन",
+        "Devendranath Tagore / देवेन्द्रनाथ टैगोर",
+        "Ananda Mohan Bose and Umesh / आनंद मोहन बोस और उमेश",
+        "Raja Ram Mohan Roy / राजा राम मोहन राय"
+      ],
+      "answer": "Ananda Mohan Bose and Umesh / आनंद मोहन बोस और उमेश",
+      "solution": "Sadharan Brahmo Samaj was founded in 1878 by Ananda Mohan Bose, Chandradev, and Umesh. 'Umesh' is the key SSC exam name asked here."
+    },
+    {
+      "question": "'Gulamgiri' was written in which language by Jyotiba Phule?\nज्योतिबा फुले ने 'गुलामगिरी' किस भाषा में लिखी थी?",
+      "options": [
+        "Hindi / हिंदी",
+        "Bengali / बंगाली",
+        "Marathi / मराठी",
+        "Sanskrit / संस्कृत"
+      ],
+      "answer": "Marathi / मराठी",
+      "solution": "Gulamgiri (Slavery) was written in Marathi by Jyotiba Phule. Satyarth Prakash by Dayananda was in Hindi — these language-book pairs are high-frequency SSC CGL topics."
+    },
+    {
+      "question": "Rahnumai Mazdayasnan Sabha (1851) was related to which community?\nरहनुमाई मज़दायस्नान सभा (1851) किस समुदाय से संबंधित थी?",
+      "options": [
+        "Muslim community / मुस्लिम समुदाय",
+        "Parsi community / पारसी समुदाय",
+        "Sikh community / सिख समुदाय",
+        "Christian community / ईसाई समुदाय"
+      ],
+      "answer": "Parsi community / पारसी समुदाय",
+      "solution": "Rahnumai Mazdayasnan Sabha (1851, Bombay) was a reform organisation for the Parsi community. Dadabhai Naoroji, R.C. Cama, and S.S. Bengali were its leaders."
+    },
+    {
+      "question": "Newspaper 'Rast Goftar' was associated with which leader?\n'रास्त गोफ्तार' समाचार पत्र किस नेता से जुड़ा था?",
+      "options": [
+        "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+        "Dadabhai Naoroji / दादाभाई नौरोजी",
+        "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
+        "Behramji Malabari / बेहरामजी मलबारी"
+      ],
+      "answer": "Dadabhai Naoroji / दादाभाई नौरोजी",
+      "solution": "Rast Goftar was the newspaper of the Parsi reform movement, associated with Dadabhai Naoroji. Hitavada was Gokhale's newspaper — both are asked in SSC CGL."
+    },
+    {
+      "question": "Banaras Hindu University (BHU) was founded in 1916 by whom?\nबनारस हिंदू विश्वविद्यालय (BHU) की स्थापना 1916 में किसने की?",
+      "options": [
+        "Dayananda Saraswati / दयानंद सरस्वती",
+        "Madan Mohan Malaviya / मदन मोहन मालवीय",
+        "Annie Besant / एनी बेसेंट",
+        "Swami Vivekananda / स्वामी विवेकानंद"
+      ],
+      "answer": "Madan Mohan Malaviya / मदन मोहन मालवीय",
+      "solution": "BHU was founded in 1916 by Madan Mohan Malaviya with the support of Pandit Mohan Singh. Annie Besant also had educational contributions but is not the BHU founder."
+    },
+    {
+      "question": "Annie Besant joined the Theosophical Society in which year?\nएनी बेसेंट किस वर्ष थियोसोफिकल सोसायटी में शामिल हुईं?",
+      "options": [
+        "1875 / 1875",
+        "1882 / 1882",
+        "1900 / 1900",
+        "1907 / 1907"
+      ],
+      "answer": "1907 / 1907",
+      "solution": "Annie Besant joined the Theosophical Society in 1907 and made it famous in India. She later led the Home Rule Movement in 1916. Both years are important for SSC."
+    },
+    {
+      "question": "Seva Sadan (1908) was co-founded by whom?\nसेवा सदन (1908) की सह-स्थापना किसने की?",
+      "options": [
+        "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
+        "Behramji M. Malabari and Diwan Dayaram Gidumal / बेहरामजी एम. मलबारी और दीवान दयाराम गिदुमल",
+        "Jyotiba Phule and Savitribai / ज्योतिबा फुले और सावित्रीबाई",
+        "Narayan Malhar Joshi / नारायण मल्हार जोशी"
+      ],
+      "answer": "Behramji M. Malabari and Diwan Dayaram Gidumal / बेहरामजी एम. मलबारी और दीवान दयाराम गिदुमल",
+      "solution": "Seva Sadan (1908) was founded by Behramji Malabari and Diwan Dayaram Gidumal. Malabari was also the editor of 'The Indian Spectator' — a connected SSC fact."
+    },
+    {
+      "question": "The Justice Movement (1917) was primarily a movement for which group?\nन्याय आंदोलन (1917) मुख्य रूप से किस समूह के लिए था?",
+      "options": [
+        "Backward class Hindus in North India / उत्तर भारत के पिछड़े वर्ग के हिंदू",
+        "Non-Brahmin communities in South India / दक्षिण भारत के गैर-ब्राह्मण समुदाय",
+        "Tribal communities in Maharashtra / महाराष्ट्र में आदिवासी समुदाय",
+        "Parsi community in Bombay / बॉम्बे में पारसी समुदाय"
+      ],
+      "answer": "Non-Brahmin communities in South India / दक्षिण भारत के गैर-ब्राह्मण समुदाय",
+      "solution": "The Justice Movement (1917) was started by C.N. Mudaliar, T.M. Nair, and P. Tyagaraja to fight upper-caste (Brahmin) domination in South India."
+    },
+    {
+      "question": "Ishwar Chandra Vidyasagar was given the title 'Vidyasagar' by which institution?\nईश्वर चंद्र विद्यासागर को 'विद्यासागर' की उपाधि किस संस्था ने दी?",
+      "options": [
+        "Bethune College, Kolkata / बेथ्यून कॉलेज, कोलकाता",
+        "Hindu College, Kolkata / हिंदू कॉलेज, कोलकाता",
+        "Sanskrit College, Kolkata / संस्कृत कॉलेज, कोलकाता",
+        "Calcutta University / कलकत्ता विश्वविद्यालय"
+      ],
+      "answer": "Sanskrit College, Kolkata / संस्कृत कॉलेज, कोलकाता",
+      "solution": "The title 'Vidyasagar' (ocean of knowledge) was conferred on Ishwar Chandra by Sanskrit College, Kolkata. He also became its Principal in 1850."
+    },
+    {
+      "question": "Dev Samaj (1887) was founded in which city?\nदेव समाज (1887) की स्थापना किस शहर में हुई?",
+      "options": [
+        "Bombay / बॉम्बे",
+        "Calcutta / कलकत्ता",
+        "Lahore / लाहौर",
+        "Pune / पुणे"
+      ],
+      "answer": "Lahore / लाहौर",
+      "solution": "Dev Samaj was founded by Shiv Narayan Agnihotri in Lahore in 1887. Its teachings were called 'Dev Shastra'. Lahore is a common location for multiple reform movements."
+    },
+    {
+      "question": "Who founded the Dharma Sabha in 1830 to oppose Raja Ram Mohan Roy?\nराजा राम मोहन राय का विरोध करने के लिए 1830 में धर्म सभा की स्थापना किसने की?",
+      "options": [
+        "Keshab Chandra Sen / केशब चन्द्र सेन",
+        "Devendranath Tagore / देवेन्द्रनाथ टैगोर",
+        "Radhakanta Deb / राधाकांत देब",
+        "Henry Derozio / हेनरी डेरोज़ियो"
+      ],
+      "answer": "Radhakanta Deb / राधाकांत देब",
+      "solution": "Radhakanta Deb founded the orthodox Dharma Sabha in 1830 specifically to oppose Ram Mohan Roy's reform movement, including the abolition of Sati."
+    },
+    {
+      "question": "Who among the following was the disciple (shishya) of Ramakrishna Paramahamsa?\nनिम्नलिखित में से कौन रामकृष्ण परमहंस के शिष्य थे?",
+      "options": [
+        "Dayananda Saraswati / दयानंद सरस्वती",
+        "Swami Vivekananda / स्वामी विवेकानंद",
+        "Raja Ram Mohan Roy / राजा राम मोहन राय",
+        "Keshab Chandra Sen / केशब चन्द्र सेन"
+      ],
+      "answer": "Swami Vivekananda / स्वामी विवेकानंद",
+      "solution": "Swami Vivekananda was the most famous disciple of Ramakrishna Paramahamsa. The guru-shishya pairs are classic SSC CGL questions."
+    },
+    {
+      "question": "Gurukul Kangri was established in which city in 1900?\nगुरुकुल कांगड़ी की स्थापना 1900 में किस शहर में हुई?",
+      "options": [
+        "Lahore / लाहौर",
+        "Haridwar / हरिद्वार",
+        "Mathura / मथुरा",
+        "Varanasi / वाराणसी"
+      ],
+      "answer": "Haridwar / हरिद्वार",
+      "solution": "Gurukul Kangri was established in Haridwar in 1900 by the Arya Samaj faction. DAV College (1886) was in Lahore. These two institutions represent the two factions of the Arya Samaj split."
+    },
+    {
+      "question": "The 'Shuddhi Movement' was associated with which organisation?\n'शुद्धि आंदोलन' किस संगठन से जुड़ा था?",
+      "options": [
+        "Brahmo Samaj / ब्रह्म समाज",
+        "Prarthana Samaj / प्रार्थना समाज",
+        "Arya Samaj / आर्य समाज",
+        "Ramakrishna Mission / रामकृष्ण मिशन"
+      ],
+      "answer": "Arya Samaj / आर्य समाज",
+      "solution": "The Shuddhi Movement (reconversion of Hindus who had converted to other religions) was started by the Arya Samaj under Dayananda Saraswati."
+    },
+    {
+      "question": "Who was the successor of Gokhale as President of Servants of India Society after his death in 1915?\n1915 में गोखले की मृत्यु के बाद सर्वेंट्स ऑफ इंडिया सोसायटी के अध्यक्ष के रूप में उनके उत्तराधिकारी कौन थे?",
+      "options": [
+        "M.G. Ranade / एम.जी. रानाडे",
+        "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+        "Srinivasa Shastri / श्रीनिवास शास्त्री",
+        "Dadabhai Naoroji / दादाभाई नौरोजी"
+      ],
+      "answer": "Srinivasa Shastri / श्रीनिवास शास्त्री",
+      "solution": "After Gokhale's death in 1915, Srinivasa Shastri succeeded him as president of the Servants of India Society. This is a high-frequency but lesser-known SSC CGL fact."
+    },
+    {
+      "question": "Who among the following was known as Sister Nivedita?\nनिम्नलिखित में से कौन सिस्टर निवेदिता के नाम से जानी जाती थीं?",
+      "options": [
+        "Annie Besant / एनी बेसेंट",
+        "Madame Blavatsky / मैडम ब्लावात्स्की",
+        "Margaret Noble / मार्गरेट नोबल",
+        "Sarada Devi / सारदा देवी"
+      ],
+      "answer": "Margaret Noble / मार्गरेट नोबल",
+      "solution": "Margaret Noble was a Western follower of Vivekananda, known as Sister Nivedita. Annie Besant and Blavatsky were associated with the Theosophical Society — a common SSC confusion."
+    },
+    {
+      "question": "Vedanta College was founded by Raja Ram Mohan Roy in which year?\nराजा राम मोहन राय ने वेदांत कॉलेज की स्थापना किस वर्ष की?",
+      "options": [
+        "1814 / 1814",
+        "1821 / 1821",
+        "1825 / 1825",
+        "1828 / 1828"
+      ],
+      "answer": "1825 / 1825",
+      "solution": "Vedanta College was founded in 1825 by Raja Ram Mohan Roy. The chronological sequence 1814 (Sabha) → 1821 (Sambad) → 1822 (Mirat) → 1825 (Vedanta) → 1828 (Samaj) is a must-learn pattern."
+    },
+    {
+      "question": "Which slogan is attributed to Dayananda Saraswati for his political stance?\nदयानंद सरस्वती के राजनीतिक दृष्टिकोण के लिए कौन-सा नारा दिया जाता है?",
+      "options": [
+        "Vande Mataram / वंदे मातरम",
+        "India for Indians / भारत भारतीयों के लिए",
+        "Inquilab Zindabad / इंक़लाब ज़िंदाबाद",
+        "Swarajya is my birthright / स्वराज्य मेरा जन्मसिद्ध अधिकार है"
+      ],
+      "answer": "India for Indians / भारत भारतीयों के लिए",
+      "solution": "Dayananda Saraswati's political slogan was 'India for Indians'. He was also the first to use the term 'Swaraj'. Both facts are important for SSC CGL 2025."
+    },
+    {
+      "question": "Bal Hatya Pratibandhak Griha was established in 1863 by whom?\n1863 में बाल हत्या प्रतिबंधक गृह की स्थापना किसने की?",
+      "options": [
+        "Jyotiba Phule / ज्योतिबा फुले",
+        "Savitribai Phule / सावित्रीबाई फुले",
+        "Atmaram Pandurang / आत्माराम पांडुरंग",
+        "Ishwar Chandra Vidyasagar / ईश्वर चन्द्र विद्यासागर"
+      ],
+      "answer": "Savitribai Phule / सावित्रीबाई फुले",
+      "solution": "Savitribai Phule opened Bal Hatya Pratibandhak Griha (home to prevent female infanticide) in 1863. She is also known as India's first female teacher — both facts appear in SSC CGL."
+    },
+    {
+      "question": "The Social Service League in Bombay was founded by whom?\nबॉम्बे में सोशल सर्विस लीग की स्थापना किसने की?",
+      "options": [
+        "M.G. Ranade / एम.जी. रानाडे",
+        "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
+        "Narayan Malhar Joshi / नारायण मल्हार जोशी",
+        "Behramji Malabari / बेहरामजी मलबारी"
+      ],
+      "answer": "Narayan Malhar Joshi / नारायण मल्हार जोशी",
+      "solution": "Social Service League in Bombay was founded by Narayan Malhar Joshi, a follower of Gokhale. This is a lesser-known but directly asked SSC CGL question."
+    }
+  ]
 }
