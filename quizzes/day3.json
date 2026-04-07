@@ -1,0 +1,335 @@
+{
+    "title": "SSC CGL 2025 High-Level Practice Quiz",
+    "questions": [
+        {
+            "question": "Directive Principles of State Policy are mentioned in which part of the Constitution? \n राज्य के नीति निदेशक तत्व संविधान के किस भाग में दिए गए हैं?",
+            "options": [
+                "Part III / भाग III",
+                "Part IV / भाग IV",
+                "Part IVA / भाग IVA",
+                "Part V / भाग V"
+            ],
+            "answer": "Part IV / भाग IV",
+            "solution": "DPSPs are in Part IV (Art 36–51), a very frequent SSC question."
+        },
+        {
+            "question": "Which of the following best describes DPSPs? \n निम्न में से कौन सा नीति निदेशक तत्वों का सही वर्णन है?",
+            "options": [
+                "Legally enforceable rights / न्यायालय में लागू अधिकार",
+                "Guidelines for State policy / राज्य नीति के लिए दिशानिर्देश",
+                "Judicial powers / न्यायिक शक्तियाँ",
+                "Emergency provisions / आपातकालीन प्रावधान"
+            ],
+            "answer": "Guidelines for State policy / राज्य नीति के लिए दिशानिर्देश",
+            "solution": "DPSPs guide governance but are not enforceable."
+        },
+        {
+            "question": "DPSPs are inspired from which country's Constitution? \n DPSP किस देश के संविधान से प्रेरित हैं?",
+            "options": [
+                "USA / अमेरिका",
+                "Ireland / आयरलैंड",
+                "UK / ब्रिटेन",
+                "Canada / कनाडा"
+            ],
+            "answer": "Ireland / आयरलैंड",
+            "solution": "Ireland is the direct source, commonly asked in SSC."
+        },
+        {
+            "question": "Which article states DPSPs are non-justiciable? \n कौन सा अनुच्छेद DPSP को न्यायालय में लागू न होने वाला बताता है?",
+            "options": [
+                "Article 32 / अनुच्छेद 32",
+                "Article 37 / अनुच्छेद 37",
+                "Article 44 / अनुच्छेद 44",
+                "Article 51 / अनुच्छेद 51"
+            ],
+            "answer": "Article 37 / अनुच्छेद 37",
+            "solution": "Art 37 clearly states DPSPs are not enforceable."
+        },
+        {
+            "question": "Equal pay for equal work is under which category of DPSP? \n समान कार्य के लिए समान वेतन DPSP की किस श्रेणी में आता है?",
+            "options": [
+                "Gandhian / गांधीवादी",
+                "Socialist / समाजवादी",
+                "Liberal / उदारवादी",
+                "Legal / विधिक"
+            ],
+            "answer": "Socialist / समाजवादी",
+            "solution": "Equal pay is a Socialist principle, very high-frequency PYQ."
+        },
+        {
+            "question": "Maternity relief is mentioned under which Article? \n मातृत्व राहत किस अनुच्छेद में दी गई है?",
+            "options": [
+                "Article 40 / अनुच्छेद 40",
+                "Article 42 / अनुच्छेद 42",
+                "Article 44 / अनुच्छेद 44",
+                "Article 50 / अनुच्छेद 50"
+            ],
+            "answer": "Article 42 / अनुच्छेद 42",
+            "solution": "Art 42 provides for maternity relief, important static fact."
+        },
+        {
+            "question": "Panchayati Raj is included in which DPSP category? \n पंचायत राज DPSP की किस श्रेणी में आता है?",
+            "options": [
+                "Socialist / समाजवादी",
+                "Liberal / उदारवादी",
+                "Gandhian / गांधीवादी",
+                "International / अंतरराष्ट्रीय"
+            ],
+            "answer": "Gandhian / गांधीवादी",
+            "solution": "Village self-governance is Gandhian ideology."
+        },
+        {
+            "question": "Uniform Civil Code is provided under which Article? \n समान नागरिक संहिता किस अनुच्छेद में है?",
+            "options": [
+                "Article 43 / अनुच्छेद 43",
+                "Article 44 / अनुच्छेद 44",
+                "Article 45 / अनुच्छेद 45",
+                "Article 48 / अनुच्छेद 48"
+            ],
+            "answer": "Article 44 / अनुच्छेद 44",
+            "solution": "UCC is a Liberal principle and frequently asked."
+        },
+        {
+            "question": "Which DPSP promotes international peace? \n कौन सा DPSP अंतरराष्ट्रीय शांति को बढ़ावा देता है?",
+            "options": [
+                "Article 40 / अनुच्छेद 40",
+                "Article 44 / अनुच्छेद 44",
+                "Article 51 / अनुच्छेद 51",
+                "Article 48A / अनुच्छेद 48A"
+            ],
+            "answer": "Article 51 / अनुच्छेद 51",
+            "solution": "Art 51 deals with international peace and security."
+        },
+        {
+            "question": "Which article deals with environmental protection? \n पर्यावरण संरक्षण किस अनुच्छेद में है?",
+            "options": [
+                "Article 48A / अनुच्छेद 48A",
+                "Article 39 / अनुच्छेद 39",
+                "Article 41 / अनुच्छेद 41",
+                "Article 50 / अनुच्छेद 50"
+            ],
+            "answer": "Article 48A / अनुच्छेद 48A",
+            "solution": "Added by 42nd Amendment, important trap question."
+        },
+        {
+            "question": "Which article deals with separation of judiciary from executive? \n न्यायपालिका को कार्यपालिका से अलग करने का प्रावधान किस अनुच्छेद में है?",
+            "options": [
+                "Article 50 / अनुच्छेद 50",
+                "Article 44 / अनुच्छेद 44",
+                "Article 47 / अनुच्छेद 47",
+                "Article 39 / अनुच्छेद 39"
+            ],
+            "answer": "Article 50 / अनुच्छेद 50",
+            "solution": "Separation of judiciary is Liberal principle."
+        },
+        {
+            "question": "Which DPSP appears in both Socialist and Gandhian categories? \n कौन सा DPSP समाजवादी और गांधीवादी दोनों में आता है?",
+            "options": [
+                "Article 44 / अनुच्छेद 44",
+                "Article 47 / अनुच्छेद 47",
+                "Article 50 / अनुच्छेद 50",
+                "Article 51 / अनुच्छेद 51"
+            ],
+            "answer": "Article 47 / अनुच्छेद 47",
+            "solution": "Art 47 includes health (Socialist) and prohibition (Gandhian)."
+        },
+        {
+            "question": "Fundamental Duties are in which part? \n मौलिक कर्तव्य किस भाग में हैं?",
+            "options": [
+                "Part III / भाग III",
+                "Part IV / भाग IV",
+                "Part IVA / भाग IVA",
+                "Part V / भाग V"
+            ],
+            "answer": "Part IVA / भाग IVA",
+            "solution": "FDs are in Part IVA (Art 51A)."
+        },
+        {
+            "question": "Fundamental Duties were added by which amendment? \n मौलिक कर्तव्य किस संशोधन से जोड़े गए?",
+            "options": [
+                "44th Amendment / 44वां संशोधन",
+                "42nd Amendment / 42वां संशोधन",
+                "86th Amendment / 86वां संशोधन",
+                "73rd Amendment / 73वां संशोधन"
+            ],
+            "answer": "42nd Amendment / 42वां संशोधन",
+            "solution": "1976 amendment, highly repeated fact."
+        },
+        {
+            "question": "Which committee recommended Fundamental Duties? \n किस समिति ने मौलिक कर्तव्यों की सिफारिश की?",
+            "options": [
+                "Balwant Rai Mehta / बलवंत राय मेहता",
+                "Swaran Singh / स्वर्ण सिंह",
+                "Sarkaria / सरकारिया",
+                "Punchhi / पंची"
+            ],
+            "answer": "Swaran Singh / स्वर्ण सिंह",
+            "solution": "Swaran Singh Committee recommended FDs."
+        },
+        {
+            "question": "Total number of Fundamental Duties? \n मौलिक कर्तव्यों की कुल संख्या कितनी है?",
+            "options": [
+                "10 / 10",
+                "11 / 11",
+                "12 / 12",
+                "9 / 9"
+            ],
+            "answer": "11 / 11",
+            "solution": "Initially 10, later 11 after 86th Amendment."
+        },
+        {
+            "question": "Which amendment added the 11th Fundamental Duty? \n 11वां मौलिक कर्तव्य किस संशोधन से जोड़ा गया?",
+            "options": [
+                "42nd / 42वां",
+                "44th / 44वां",
+                "86th / 86वां",
+                "73rd / 73वां"
+            ],
+            "answer": "86th / 86वां",
+            "solution": "Added duty of parents to provide education."
+        },
+        {
+            "question": "Which duty relates to environment protection? \n पर्यावरण संरक्षण किस कर्तव्य से संबंधित है?",
+            "options": [
+                "Promote harmony / सद्भाव बढ़ाना",
+                "Protect environment / पर्यावरण की रक्षा",
+                "Defend country / देश की रक्षा",
+                "Scientific temper / वैज्ञानिक सोच"
+            ],
+            "answer": "Protect environment / पर्यावरण की रक्षा",
+            "solution": "FD includes environmental protection, repeated PYQ."
+        },
+        {
+            "question": "Scientific temper is included in which part? \n वैज्ञानिक दृष्टिकोण किस भाग में है?",
+            "options": [
+                "DPSP / DPSP",
+                "FR / मौलिक अधिकार",
+                "FD / मौलिक कर्तव्य",
+                "Preamble / प्रस्तावना"
+            ],
+            "answer": "FD / मौलिक कर्तव्य",
+            "solution": "Scientific temper is a Fundamental Duty."
+        },
+        {
+            "question": "Which DPSP promotes cottage industries? \n कौन सा DPSP कुटीर उद्योगों को बढ़ावा देता है?",
+            "options": [
+                "Article 43 / अनुच्छेद 43",
+                "Article 40 / अनुच्छेद 40",
+                "Article 47 / अनुच्छेद 47",
+                "Article 51 / अनुच्छेद 51"
+            ],
+            "answer": "Article 43 / अनुच्छेद 43",
+            "solution": "Art 43 is Gandhian principle."
+        },
+        {
+            "question": "Which article ensures free legal aid? \n मुफ्त कानूनी सहायता किस अनुच्छेद में है?",
+            "options": [
+                "Article 39A / अनुच्छेद 39A",
+                "Article 41 / अनुच्छेद 41",
+                "Article 43 / अनुच्छेद 43",
+                "Article 48A / अनुच्छेद 48A"
+            ],
+            "answer": "Article 39A / अनुच्छेद 39A",
+            "solution": "Legal aid is Socialist principle."
+        },
+        {
+            "question": "Which article deals with right to work? \n काम का अधिकार किस अनुच्छेद में है?",
+            "options": [
+                "Article 41 / अनुच्छेद 41",
+                "Article 39 / अनुच्छेद 39",
+                "Article 42 / अनुच्छेद 42",
+                "Article 45 / अनुच्छेद 45"
+            ],
+            "answer": "Article 41 / अनुच्छेद 41",
+            "solution": "Art 41 covers work, education, assistance."
+        },
+        {
+            "question": "Which DPSP protects monuments? \n कौन सा DPSP स्मारकों की रक्षा करता है?",
+            "options": [
+                "Article 49 / अनुच्छेद 49",
+                "Article 48 / अनुच्छेद 48",
+                "Article 50 / अनुच्छेद 50",
+                "Article 51 / अनुच्छेद 51"
+            ],
+            "answer": "Article 49 / अनुच्छेद 49",
+            "solution": "Important Liberal principle."
+        },
+        {
+            "question": "Which DPSP is related to prohibition? \n मद्यनिषेध किस DPSP से जुड़ा है?",
+            "options": [
+                "Article 44 / अनुच्छेद 44",
+                "Article 47 / अनुच्छेद 47",
+                "Article 50 / अनुच्छेद 50",
+                "Article 48A / अनुच्छेद 48A"
+            ],
+            "answer": "Article 47 / अनुच्छेद 47",
+            "solution": "Gandhian principle, repeated trap."
+        },
+        {
+            "question": "DPSPs aim to establish what type of state? \n DPSP का उद्देश्य किस प्रकार का राज्य बनाना है?",
+            "options": [
+                "Police state / पुलिस राज्य",
+                "Welfare state / कल्याणकारी राज्य",
+                "Military state / सैन्य राज्य",
+                "Unitary state / एकात्मक राज्य"
+            ],
+            "answer": "Welfare state / कल्याणकारी राज्य",
+            "solution": "Core concept frequently asked."
+        },
+        {
+            "question": "Which case established balance between FR and DPSP? \n किस मामले ने FR और DPSP के बीच संतुलन स्थापित किया?",
+            "options": [
+                "Kesavananda Bharati / केशवानंद भारती",
+                "Minerva Mills / मिनर्वा मिल्स",
+                "Golaknath / गोलकनाथ",
+                "Maneka Gandhi / मेनका गांधी"
+            ],
+            "answer": "Minerva Mills / मिनर्वा मिल्स",
+            "solution": "Balance principle is key SSC concept."
+        },
+        {
+            "question": "Which case introduced Basic Structure Doctrine? \n किस मामले ने मूल संरचना सिद्धांत दिया?",
+            "options": [
+                "Minerva Mills / मिनर्वा मिल्स",
+                "Kesavananda Bharati / केशवानंद भारती",
+                "Golaknath / गोलकनाथ",
+                "SR Bommai / एसआर बोम्मई"
+            ],
+            "answer": "Kesavananda Bharati / केशवानंद भारती",
+            "solution": "Very important constitutional case."
+        },
+        {
+            "question": "Which DPSP relates to early childhood education? \n प्रारंभिक बाल शिक्षा किस DPSP से संबंधित है?",
+            "options": [
+                "Article 45 / अनुच्छेद 45",
+                "Article 44 / अनुच्छेद 44",
+                "Article 41 / अनुच्छेद 41",
+                "Article 39 / अनुच्छेद 39"
+            ],
+            "answer": "Article 45 / अनुच्छेद 45",
+            "solution": "Modified by amendments, high-yield fact."
+        },
+        {
+            "question": "Which duty involves safeguarding public property? \n सार्वजनिक संपत्ति की रक्षा किस कर्तव्य में है?",
+            "options": [
+                "Protect environment / पर्यावरण रक्षा",
+                "Safeguard property / संपत्ति की रक्षा",
+                "Promote harmony / सद्भाव बढ़ाना",
+                "Defend country / देश रक्षा"
+            ],
+            "answer": "Safeguard property / संपत्ति की रक्षा",
+            "solution": "Commonly confused FD question."
+        },
+        {
+            "question": "Which of the following is NOT a DPSP feature? \n निम्न में से कौन DPSP की विशेषता नहीं है?",
+            "options": [
+                "Non-justiciable / न्यायालय में लागू नहीं",
+                "Binding on citizens / नागरिकों पर बाध्यकारी",
+                "Guideline for state / राज्य के लिए मार्गदर्शन",
+                "Promotes welfare / कल्याण को बढ़ावा"
+            ],
+            "answer": "Binding on citizens / नागरिकों पर बाध्यकारी",
+            "solution": "DPSPs are for State, not citizens."
+        }
+    ]
+}
