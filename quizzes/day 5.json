@@ -1,0 +1,214 @@
+{
+  "title": "SSC CGL 2025 High-Level Practice Quiz",
+  "questions": [
+    {
+      "question": "Who is NOT a part of the Electoral College for the election of the President of India?\nभारत के राष्ट्रपति के निर्वाचन हेतु निर्वाचन मंडल का हिस्सा कौन नहीं है?",
+      "options": [
+        "Elected Members of Lok Sabha / लोकसभा के निर्वाचित सदस्य",
+        "Elected Members of Rajya Sabha / राज्यसभा के निर्वाचित सदस्य",
+        "Elected Members of State Legislative Assemblies / राज्य विधानसभाओं के निर्वाचित सदस्य",
+        "Nominated Members of Rajya Sabha / राज्यसभा के नामांकित सदस्य"
+      ],
+      "answer": "Nominated Members of Rajya Sabha / राज्यसभा के नामांकित सदस्य",
+      "solution": "Nominated members are excluded. SSC often tests this trap."
+    },
+    {
+      "question": "The oath of office to the President of India is administered by whom?\nभारत के राष्ट्रपति को पद की शपथ कौन दिलाता है?",
+      "options": [
+        "Prime Minister / प्रधानमंत्री",
+        "Chief Justice of India / भारत के मुख्य न्यायाधीश",
+        "Speaker of Lok Sabha / लोकसभा अध्यक्ष",
+        "Vice President / उपराष्ट्रपति"
+      ],
+      "answer": "Chief Justice of India / भारत के मुख्य न्यायाधीश",
+      "solution": "CJI administers oath. If absent, senior-most SC judge does."
+    },
+    {
+      "question": "Which veto allows the President to keep a bill pending indefinitely?\nकौन सा वीटो राष्ट्रपति को विधेयक अनिश्चित काल तक लंबित रखने की अनुमति देता है?",
+      "options": [
+        "Absolute Veto / पूर्ण वीटो",
+        "Suspensive Veto / निलंबनकारी वीटो",
+        "Pocket Veto / जेब वीटो",
+        "Qualified Veto / योग्यता आधारित वीटो"
+      ],
+      "answer": "Pocket Veto / जेब वीटो",
+      "solution": "Pocket veto has no time limit. Frequently asked in SSC."
+    },
+    {
+      "question": "Under which Article is the impeachment of the President mentioned?\nराष्ट्रपति के महाभियोग का उल्लेख किस अनुच्छेद में है?",
+      "options": [
+        "Article 52 / अनुच्छेद 52",
+        "Article 61 / अनुच्छेद 61",
+        "Article 72 / अनुच्छेद 72",
+        "Article 356 / अनुच्छेद 356"
+      ],
+      "answer": "Article 61 / अनुच्छेद 61",
+      "solution": "Art 61 deals with impeachment—highly repeated SSC fact."
+    },
+    {
+      "question": "Which of the following bodies elects the Vice President of India?\nभारत के उपराष्ट्रपति का चुनाव कौन करता है?",
+      "options": [
+        "Elected MPs only / केवल निर्वाचित सांसद",
+        "Both Houses of Parliament including nominated members / संसद के दोनों सदन (नामांकित सहित)",
+        "Elected MPs and MLAs / सांसद एवं विधायक",
+        "Only Rajya Sabha members / केवल राज्यसभा सदस्य"
+      ],
+      "answer": "Both Houses of Parliament including nominated members / संसद के दोनों सदन (नामांकित सहित)",
+      "solution": "VP election includes nominated MPs, unlike President."
+    },
+    {
+      "question": "Who among the following can grant pardon in all cases including death sentence?\nनिम्न में से कौन सभी मामलों में क्षमा प्रदान कर सकता है, जिसमें मृत्यु दंड भी शामिल है?",
+      "options": [
+        "Governor / राज्यपाल",
+        "Chief Justice / मुख्य न्यायाधीश",
+        "President / राष्ट्रपति",
+        "Prime Minister / प्रधानमंत्री"
+      ],
+      "answer": "President / राष्ट्रपति",
+      "solution": "Only President can pardon death sentence fully."
+    },
+    {
+      "question": "Which of the following is NOT a type of pardon?\nनिम्न में से कौन क्षमादान का प्रकार नहीं है?",
+      "options": [
+        "Pardon / क्षमा",
+        "Reprieve / स्थगन",
+        "Remission / अवधि में कमी",
+        "Suspension Vote / निलंबन मत"
+      ],
+      "answer": "Suspension Vote / निलंबन मत",
+      "solution": "PRRRC are valid forms. Others are traps."
+    },
+    {
+      "question": "The Vice President acts as Chairman of which House?\nउपराष्ट्रपति किस सदन के अध्यक्ष होते हैं?",
+      "options": [
+        "Lok Sabha / लोकसभा",
+        "Rajya Sabha / राज्यसभा",
+        "Joint Session / संयुक्त अधिवेशन",
+        "Legislative Council / विधान परिषद"
+      ],
+      "answer": "Rajya Sabha / राज्यसभा",
+      "solution": "VP is ex-officio Chairman of Rajya Sabha."
+    },
+    {
+      "question": "What is the term of office of the President of India?\nभारत के राष्ट्रपति का कार्यकाल कितना होता है?",
+      "options": [
+        "4 years / 4 वर्ष",
+        "5 years / 5 वर्ष",
+        "6 years / 6 वर्ष",
+        "Till pleasure of Parliament / संसद की इच्छा तक"
+      ],
+      "answer": "5 years / 5 वर्ष",
+      "solution": "Fixed term of 5 years; can be re-elected."
+    },
+    {
+      "question": "Who has the casting vote in Rajya Sabha?\nराज्यसभा में निर्णायक मत किसके पास होता है?",
+      "options": [
+        "Prime Minister / प्रधानमंत्री",
+        "Speaker / अध्यक्ष",
+        "Vice President / उपराष्ट्रपति",
+        "President / राष्ट्रपति"
+      ],
+      "answer": "Vice President / उपराष्ट्रपति",
+      "solution": "VP as Chairman casts deciding vote in tie."
+    },
+    {
+      "question": "Which Article provides for pardoning powers of President?\nराष्ट्रपति की क्षमादान शक्ति किस अनुच्छेद में है?",
+      "options": [
+        "Article 52 / अनुच्छेद 52",
+        "Article 72 / अनुच्छेद 72",
+        "Article 74 / अनुच्छेद 74",
+        "Article 356 / अनुच्छेद 356"
+      ],
+      "answer": "Article 72 / अनुच्छेद 72",
+      "solution": "Art 72 = judicial powers (important SSC repeat)."
+    },
+    {
+      "question": "Which of the following is included in President's Electoral College?\nनिम्न में से कौन राष्ट्रपति के निर्वाचन मंडल में शामिल है?",
+      "options": [
+        "Nominated MLAs / नामांकित विधायक",
+        "Elected MLAs / निर्वाचित विधायक",
+        "Nominated MPs / नामांकित सांसद",
+        "MLCs / विधान परिषद सदस्य"
+      ],
+      "answer": "Elected MLAs / निर्वाचित विधायक",
+      "solution": "Only elected MLAs are counted."
+    },
+    {
+      "question": "Who can initiate impeachment against the President?\nराष्ट्रपति के विरुद्ध महाभियोग कौन प्रारंभ कर सकता है?",
+      "options": [
+        "Supreme Court / सर्वोच्च न्यायालय",
+        "State Legislature / राज्य विधानमंडल",
+        "Either House of Parliament / संसद का कोई भी सदन",
+        "Prime Minister / प्रधानमंत्री"
+      ],
+      "answer": "Either House of Parliament / संसद का कोई भी सदन",
+      "solution": "Initiated by either House, key SSC fact."
+    },
+    {
+      "question": "Which voting system is used in President election?\nराष्ट्रपति चुनाव में कौन सी मतदान प्रणाली उपयोग होती है?",
+      "options": [
+        "First Past the Post / साधारण बहुमत",
+        "Proportional Representation with STV / आनुपातिक प्रतिनिधित्व (एकल संक्रमणीय मत)",
+        "Simple Majority / साधारण बहुमत",
+        "Open Ballot / खुला मतदान"
+      ],
+      "answer": "Proportional Representation with STV / आनुपातिक प्रतिनिधित्व (एकल संक्रमणीय मत)",
+      "solution": "PR + STV system is standard SSC question."
+    },
+    {
+      "question": "To whom does the President submit resignation?\nराष्ट्रपति अपना इस्तीफा किसे देता है?",
+      "options": [
+        "Prime Minister / प्रधानमंत्री",
+        "Chief Justice / मुख्य न्यायाधीश",
+        "Vice President / उपराष्ट्रपति",
+        "Speaker / अध्यक्ष"
+      ],
+      "answer": "Vice President / उपराष्ट्रपति",
+      "solution": "Resignation addressed to VP."
+    },
+    {
+      "question": "Who elects the Vice President?\nउपराष्ट्रपति का चुनाव कौन करता है?",
+      "options": [
+        "Only Lok Sabha / केवल लोकसभा",
+        "Only Rajya Sabha / केवल राज्यसभा",
+        "Both Houses of Parliament / संसद के दोनों सदन",
+        "MLAs and MPs / विधायक और सांसद"
+      ],
+      "answer": "Both Houses of Parliament / संसद के दोनों सदन",
+      "solution": "Includes nominated MPs too."
+    },
+    {
+      "question": "Which veto returns the bill for reconsideration?\nकौन सा वीटो विधेयक को पुनर्विचार हेतु लौटाता है?",
+      "options": [
+        "Absolute Veto / पूर्ण वीटो",
+        "Suspensive Veto / निलंबनकारी वीटो",
+        "Pocket Veto / जेब वीटो",
+        "Judicial Veto / न्यायिक वीटो"
+      ],
+      "answer": "Suspensive Veto / निलंबनकारी वीटो",
+      "solution": "Bill can be passed again by Parliament."
+    },
+    {
+      "question": "The executive power of the Union is vested in?\nसंघ की कार्यपालिका शक्ति किसमें निहित होती है?",
+      "options": [
+        "Prime Minister / प्रधानमंत्री",
+        "Council of Ministers / मंत्रिपरिषद",
+        "President / राष्ट्रपति",
+        "Parliament / संसद"
+      ],
+      "answer": "President / राष्ट्रपति",
+      "solution": "Art 53 vests power in President."
+    },
+    {
+      "question": "Which of the following is NOT correct about Vice President?\nउपराष्ट्रपति के बारे में कौन सा कथन गलत है?",
+      "options": [
+        "He is Chairman of Rajya Sabha / वह राज्यसभा के अध्यक्ष हैं",
+        "He is part of Electoral College for President / वह राष्ट्रपति चुनाव में भाग लेते हैं",
+        "He is elected by MLAs / उनका चुनाव विधायकों द्वारा होता है",
+        "He can act as President / वह राष्ट्रपति के रूप में कार्य कर सकते हैं"
+      ],
+      "answer": "He is elected by MLAs / उनका चुनाव विधायकों द्वारा होता है",
+      "solution": "MLAs are not involved in VP election."
+    }
+  ]
+}
